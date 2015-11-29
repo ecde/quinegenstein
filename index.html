@@ -1,0 +1,66 @@
+<html>
+<head>
+<!-- ADICIONADO NO HEAD ¡IMPORTANTE! -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1"/>
+</head>
+<body>
+    <div id="quine"></div>
+</body>
+<script type="text/javascript">
+function reload (){
+    location.reload();
+}
+
+var quineDiv = document.getElementById("quine");
+
+function dressUp (){
+    var doc = this.responseText;
+    var initial = doc.split("\n");
+    var middle = initial.map(function(txt){ return "<p>".concat(txt).concat("</p>"); });
+    var last = "<div>".concat(middle.join(" ")).concat("</div>").replace("= random ", "<span>= random</span>");
+    quineDiv.innerHTML = last;
+}
+
+var xhr = new XMLHttpRequest();
+xhr.addEventListener("load", dressUp);
+xhr.open("load", "quine.html");
+
+window.onload = function () {
+    xhr.send();
+    setTimeout(reload, 5000); // TCO
+}
+
+
+</script>
+
+<style type="text/css">
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    margin: 0 auto;
+    background-color: #1c1b20;
+    padding: 10%;
+    max-width: 80%;
+}
+p{
+    color: #f0f0f0;
+    font-family: 'Courier New', monospace;
+    font-size: 0.75em;
+}
+p:nth-child(2){
+    color: #1ed15c;
+}
+p:nth-child(6),
+p:nth-child(7){
+    padding-left: 6em;
+}
+/* Da uma olhada na linha 9 desse documento. Coloquei um span lá pra poder imitar o recuo do texto que acontece nesse mesma linha (9).*/
+span{
+    padding-left: 4em;
+}
+</style>
+<body>
+<html>
