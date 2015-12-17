@@ -24,7 +24,7 @@ function dressUp (){
 
 var xhr = new XMLHttpRequest();
 xhr.addEventListener("load", dressUp);
-xhr.open("load", "quine.html");
+xhr.open("GET", "quine.html");
 
 window.onload = function () {
     xhr.send();
