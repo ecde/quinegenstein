@@ -1,0 +1,487 @@
+
+190. It may now be said: "The way the formula is meant determines
+which steps are to be taken". What is the criterion for the way the
+formula is meant? It is, for example, the kind of way we always use it,
+the way we are taught to use it.
+We say, for instance, to someone who uses a sign unknown to us:
+"If by 'xU' you mean x2, then you get this value for j, if you mean
+2X, that one."—Now ask yourself: how does one mean the one thing or
+the other by"x!2"?
+That will be how meaning it can determine the steps in advance.
+191. "It is as if we could grasp the whole use of the word in a
+flash." Like what e.g.?—Can't the use—in a certain sense—be grasped
+in a flash? And in what sense can it not?—The point is, that it is as if
+we could 'grasp it in a flash' in yet another and much more direct sense
+than that.—But have you a model for this? No. It is just that this
+expression suggests itself to us. As the result of the crossing of
+different pictures.
+192. You have no model of this superlative fact, but you are
+seduced into using a super-expression. (It might be called a philosophical superlative.)
+193. The machine as symbolizing its action: the action of a
+machine—I might say at first—seems to be there in it from the start.
+What does that mean?—If we know the machine, everything else, that
+is its movement, seems to be already completely determined.
+We talk as if these parts could only move in this way, as if they
+could not do anything else. How is this—do we forget the possibility
+of their bending, breaking off, melting, and so on? Yes; in many cases
+
+7 ge
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+we don't think of that at all. We use a machine, or the drawing of a
+machine, to symbolize a particular action of the machine. For instance,
+we give someone such a drawing and assume that he will derive the
+movement of the parts from it. (Just as we can give someone a number
+by telling him that it is the twenty-fifth in the series i, 4, 9, 16, . . . .)
+"The machine's action seems to be in it from the start" means:
+we are inclined to compare the future movements of the machine
+in their definiteness to objects which are already lying in a drawer
+and which we then take out.——But we do not say this kind of thing
+when we are concerned with predicting the actual behaviour of a
+machine. Then we do not in general forget the possibility of a distortion of the parts and so on.——We do talk like that, however, when
+we are wondering at the way we can use a machine to symbolize a
+given way of moving—since it can also move in quite different ways.
+We might say that a machine, or the picture of it, is the first of a
+series of pictures which we have learnt to derive from this one.
+But when we reflect that the machine could also have moved differently it may look as if the way it moves must be contained in the
+machine-as-symbol far more determinately than in the actual machine.
+As if it were not enough for the movements in question to be empirically determined in advance, but they had to be really—in a mysterious
+sense—already present. And it is quite true: the movement of the
+machine-as-symbol is predetermined in a different sense from that in
+which the movement of any given actual machine is predetermined.
+194. When does one have the thought: the possible movements of
+a machine are already there in it in some mysterious way?—Well,
+when one is doing philosophy. And what leads us into thinking that?
+The kind of way in which we talk about machines. We say, for example,
+that a machine has (possesses) such-and-such possibilities of movement; we speak of the ideally rigid machine which can only move in
+such-and-such a way.——What is this possibility of movement? It is
+not the movement., but it does not seem to be the mere physical conditions
+for moving either—as, that there is play between socket and pin,
+the pin not fitting too tight in the socket. For while this is the empirical
+condition for movement, one could also imagine it to be otherwise.
+The possibility of a movement is, rather, supposed to be like a shadow
+of the movement itself. But do you know of such a shadow? And
+by a shadow I do not mean some picture of the movement—for such a
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+79e
+
+picture would not have to be a picture of just this movement. But the
+possibility of this movement must be the possibility of just this
+movement. (See how high the seas of language run here!)
+The waves subside as soon as we ask ourselves: how do we use
+the phrase "possibility of movement" when we are talking about a
+given machine?——But then where did our queer ideas come from?
+Well, I shew you the possibility of a movement, say by means of a
+picture of the movement: 'so possibility is something which is like
+reality'. We say: "It isn't moving yet, but it already has the possibility
+of moving"——'so possibility is something very near reality'. Though
+we may doubt whether such-and-such physical conditions make this
+movement possible, we never discuss whether this is the possibility
+of this or of that movement: 'so the possibility of the movement
+stands in a unique relation to the movement itself; closer than that of a
+picture to its subject'; for it can be doubted whether a picture is the
+picture of this thing or that. We say "Experience will shew whether
+this gives the pin this possibility of movement", but we do not say
+"Experience will shew whether this is the possibility of this movement": 'so it is not an empirical fact that this possibility is the possibility
+of precisely this movement'.
+We mind about the kind of expressions we use concerning these
+things; we do not understand them, however, but misinterpret them.
+When we do philosophy we are like savages, primitive people, who
+hear the expressions of civilized men, put a false interpretation on
+them, and then draw the queerest conclusions from it.
+195. "But I don't mean that what I do now (in grasping a sense)
+determines the future use causally and as a matter of experience, but
+that in a queer way, the use itself is in some sense present."—But of
+course it is, 'in some sense'! Really the only thing wrong with what you
+say is the expression "in a queer way". The rest is all right; and the
+sentence only seems queer when one imagines a different language-game
+for it from the one in which we actually use it. (Someone once told
+me that as a child he had been surprised that a tailor could 'sew a
+dress'—he thought this meant that a dress was produced by sewing
+alone, by sewing one thread on to another.)
+196. In our failure to understand the use of a word we take it as
+the expression of a queer process. (As we think of time as a queer
+medium, of the mind as a queer kind of being.)
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+197. "It's as if we could grasp the whole use of a word in a flash."—
+And that is just what we say we do. That is to say: we sometimes
+describe what we do in these words. But there is nothing astonishing,
+nothing queer, about what happens. It becomes queer when we are
+led to think that the future development must in some way already be
+present in the act of grasping the use and yet isn't present.—For wre say
+that there isn't any doubt that we understand the word, and on the
+other hand its meaning lies in its use. There is no doubt that I now
+want to play chess, but chess is the game it is in virtue of all its rules
+(and so on). Don't I know, then, which game I want to play until I
+have played it? or are all the rules contained in my act of intending?
+Is it experience that tells me that this sort of game is the usual consequence of such an act of intending? so is it impossible for me to be
+certain what I am intending to do? And if that is nonsense—what
+kind of super-strong connexion exists between the act of intending
+and the thing intended?——Where is the connexion effected between
+the sense of the expression "Let's play a game of chess" and all the
+rules of the game?—Well, in the list of rules of the game, in the teaching
+of it, in the day-to-day practice of playing.
+
+It is not possible that there should have been only one occasion on
+which someone obeyed a rule. It is not possible that there should have
+been only one occasion on which a report was made, an order given or
+understood; and so on.—To obey a rule, to make a report, to give an
+order, to play a game of chess, are customs (uses, institutions).
+To understand a sentence means to understand a language. To
+understand a language means to be master of a technique.
+
+8o«
+
+8i«
+
+200. It is, of course, imaginable that two people belonging to a
+tribe unacquainted with games should sit at a chess-board and go
+through the moves of a game of chess; and even with all the appropriate
+mental accompaniments. And if n>e were to see it we should say they
+were playing chess. But now imagine a game of chess translated
+according to certain rules into a series of actions which we do not
+ordinarily associate with a game—say into yells and stamping of feet.
+And now suppose those two people to yell and stamp instead of playing the form of chess that we are used to; and this in such a way
+that their procedure is translatable by suitable rules into a game of
+chess. Should we still be inclined to say they were playing a game?
+What right would one have to say so?
+
+198. "But how can a rule shew me what I have to do at this point?
+Whatever I do is, on some interpretation, in accord with the rule."—
+That is not what we ought to say, but rather: any interpretation still
+hangs in the air along with what it interprets, and cannot give it
+any support. Interpretations by themselves do not determine meaning.
+"Then can whatever I do be brought into accord with the rule?"—
+Let me ask this: what has the expression of a rule—say a sign-post—
+got to do with my actions? What sort of connexion is there here?—
+Well, perhaps this one: I have been trained to react to this sign in a
+particular way, and now I do so react to it.
+But that is only to give a causal connexion; to tell how it has come
+about that we now go by the sign-post; not what this going-by-thesign really consists in. On the contrary; I have further indicated that
+a person goes by a sign-post only in so far as there exists a regular use
+of sign-posts, a custom.
+
+201. This was our paradox: no course of action could be determined by a rule, because every course of action can be made out to
+accord with the rule. The answer was: if everything can be made out
+to accord with the rule, then it can also be made out to conflict with it.
+And so there would be neither accord nor conflict here.
+It can be seen that there is a misunderstanding here from the mere fact
+that in the course of our argument we give one interpretation after
+another; as if each one contented us at least for a moment, until we
+thought of yet another standing behind it. What this shews is that
+there is a way of grasping a rule which is not an interpretation, but which
+is exhibited in what we call "obeying the rule" and "going against it"
+in actual cases.
+Hence there is an inclination to say: every action according to the
+rule is an interpretation. But we ought to restrict the term "interpretation" to the substitution of one expression of the rule for another.
+
+199. Is what we call "obeying a rule" something that it would be
+possible for only one man to do, and to do only once in his life?—
+This is of course a note on the grammar of the expression "to obey a
+rule".
+
+202. And hence also 'obeying a rule' is a practice. And to think one
+is obeying a rule is not to obey a rule. Hence it is not possible to obey
+a rule 'privately': otherwise thinking one was obeying a rule would be
+the same thing as obeying it.
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+203. Language is a labyrinth of paths. You approach from one
+side and know your way about; you approach the same place from
+another side and no longer know your way about.
+
+"same" to anyone?—I shall explain these words to someone who, say,
+only speaks French by means of the corresponding French words.
+But if a person has not yet got the concepts, I shall teach him to use the
+words by means of examples and by practice.—And when I do this I
+do not communicate less to him than I know myself.
+In the course of this teaching I shall shew him the same colours,
+the same lengths, the same shapes, I shall make him find them and
+produce them, and so on. I shall, for instance, get him to continue an
+ornamental pattern uniformly when told to do so.—And also to
+continue progressions. And so, for example, when given: . . . ... to
+go on: . . . . . . . . . . . . . . . .
+I do it, he does it after me; and I influence him by expressions of
+agreement, rejection, expectation, encouragement. I let him go his
+way, or hold him back; and so on.
+Imagine witnessing such teaching. None of the words would be
+explained by means of itself; there would be no logical circle.
+The expressions "and so on", "and so on ad infinitum" are also
+explained in this teaching. A gesture, among other things, might serve
+this purpose. The gesture that means "go on like this", or "and so
+on" has a function comparable to that of pointing to an object or a
+place.
+We should distinguish between the "and so on" which is, and the
+"and so on" which is not, an abbreviated notation. "And so on ad inf."
+is not such an abbreviation. The fact that we cannot write down all the
+digits of TT is not a human shortcoming, as mathematicians sometimes
+think.
+Teaching which is not meant to apply to anything but the examples
+given is different from that which 'points beyond' them.
+
+826
+
+204. As things are I can, for example, invent a game that is never
+played by anyone.—But would the following be possible too: mankind
+has never played any games; once, however, someone invented a game
+—which no one ever played?
+205. "But it is just the queer thing about intention, about the
+mental process, that the existence of a custom, of a technique, is not
+necessary to it. That, for example, it is imaginable that two people
+should play chess in a world in which otherwise no games existed; and
+even that they should begin a game of chess—and then be interrupted."
+But isn't chess defined by its rules? And how are these rules present
+in the mind of the person who is intending to play chess?
+206. Following a rule is analogous to obeying an order. We are
+trained to do so; we react to an order in a particular way. But what if
+one person reacts in one way and another in another to the order and
+the training? Which one is right?
+Suppose you came as an explorer into an unknown country with a
+language quite strange to you. In what circumstances would you
+say that the people there gave orders, understood them, obeyed them,
+rebelled against them, and so on?
+The common behaviour of mankind is the system of reference by
+means of which we interpret an unknown language.
+207. Let us imagine that the people in that country carried on the
+usual human activities and in the course of them employed, apparently,
+an articulate language. If we watch their behaviour we find it intelligible, it seems 'logical'. But when we try to learn their language we
+find it impossible to do so. For there is no regular connexion between
+what they say, the sounds they make, and their actions; but still these
+sounds are not superfluous, for if we gag one of the people, it has the
+same consequences as with us; without the sounds their actions fall
+into confusion—as I feel like putting it.
+Are we to say that these people have a language: orders, reports,
+and the rest?
+There is not enough regularity for us to call it "language".
+208. Then am I defining "order" and "rule" by means of
+"regularity"?—How do I explain the meaning of "regular", "uniform",
+
+83«
+
+209. "But then doesn't our understanding reach beyond all the
+examples?"—A very queer expression, and a quite natural one!—
+But is that a//? Isn't there a deeper explanation; or mustn't at least
+the understanding of the explanation be deeper?—Well, have I myself
+a deeper understanding? Have I got more than I give in the explanation?—But then, whence the feeling that I have got more?
+Is it like the case where I interpret what is not limited as a length
+that reaches beyond every length?
+210. "But do you really explain to the other person what you
+yourself understand? Don't you get him to guess the essential thing?
+You give him examples,—but he has to guess their drift, to guess your
+
+84e
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+intention."—Every explanation which I can give myself I give to him
+too.—"He guesses what I intend" would mean: various interpretations of my explanation come to his mind, and he lights on one of
+them. So in this case he could ask; and I could and should answer him.
+
+We might also say: "Every thing fits into itself." Or again: "Every
+thing fits into its own shape." At the same time we look at a thing
+and imagine that there was a blank left for it, and that now it fits into
+it exactly.
+Does this spot
+'//' into its white surrounding?—But that is just
+how it would look if there had at first been a hole in its place and it then
+fitted into the hole. But when we say "it fits" we are not simply
+describing this appearance; not simply this situation,
+"Every coloured patch fits exactly into its surrounding" is a rather
+specialized form of the law of identity.
+
+211. How can he know how he is to continue a pattern by himself—
+whatever instruction you give him?—Well, how do I know?——If
+that means "Have I reasons?" the answer is: my reasons will soon
+give out. And then I shall act, without reasons.
+212. When someone whom I am afraid of orders me to condnue
+the series, I act quickly, with perfect certainty, and the lack of reasons
+does not trouble me.
+213. "But this initial segment of a series obviously admitted of
+various interpretations (e.g. by means of algebraic expressions) and
+so you must first have chosen one such interpretation."—Not at all.
+A doubt was possible in certain circumstances. But that is not to say
+that I did doubt, or even could doubt. (There is something to be said,
+which is connected with this, about the psychological 'atmosphere' of a
+process.)
+So it must have been intuition that removed this doubt?—If intuidon
+is an inner voice—how do 1 know how I am to obey it? And how do I
+know that it doesn't mislead me? For if it can guide me right, it can
+also guide me wrong.
+((Intuidon an unnecessary shuffle.))
+214. If you have to have an intuition in order to develop the series
+1 2 3 4 . . . you must also have one in order to develop the series
+2 2 2 2 ... .
+2 1 5 . But isn't the same at least the same?
+We seem to have an infallible paradigm of identity in the identity
+of a thing with itself. I feel like saying: "Here at any rate there can't
+be a variety of interpretations. If you are seeing a thing you are
+seeing identity too."
+Then are two things the same when they are what one thing is?
+And how am I to apply what the one thing shews me to the case of
+two things?
+216. "A thing is identical with itself."—There is no finer example
+of a useless proposition, which yet is connected with a certain play
+of the imagination. It is as if in imagination we put a thing into its
+own shape and saw that it fitted.
+
+85e
+
+217. "How am I able to obey a rule?"—if this is not a question
+about causes, then it is about the justification for my following the
+rule in the way I do.
+If I have exhausted the justifications I have reached bedrock, and
+my spade is turned. Then I am inclined to say: "This is simply what I
+do."
+(Remember that we sometimes demand definitions for the sake not
+of their content, but of their form. Our requirement is an architectural one; the definition a kind of ornamental coping that supports
+nothing.)
+218. Whence comes the idea that the beginning of a series is a
+visible section of rails invisibly laid to infinity? Well, we might imagine
+rails instead of a rule. And infinitely long rails correspond to the unlimited application of a rule.
+219. "All the steps are really already taken" means: I no longer
+have any choice. The rule, once stamped with a particular meaning,
+.traces the lines along which it is to be followed through the whole
+of space.——But if something of this sort really were the case, how
+would it help?
+No; my description only made sense if it was to be understood
+symbolically.—I should have said: This is how it strikes me.
+When I obey a rule, I do not choose.
+I obey the rule blindly.
+220. But what is the purpose of that symbolical proposition? It
+was supposed to bring into prominence a difference between being
+causally determined and being logically determined.
+221. My symbolical expression was really a mythological description of the use of a rule.
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+222. "The line intimates to me the way I am to go." — But that is
+of course only a picture. And if I judged that it intimated this or that as
+it were irresponsibly, I should not say that I was obeying it like a rule.
+223. One does not feel that one has always got to wait upon the
+nod (the whisper) of the rule. On the contrary, we are not on tenterhooks about what it will tell us next, but it always tells us the same,
+and we do what it tells us.
+One might say to the person one was training: "Look, I always do
+the same thing: I . . . . . "
+
+232. Let us imagine a rule intimating to me which way I am to
+obey it; that is, as my eye travels along the line, a voice within me says:
+"This way!"—What is the difference between this process of obeying
+a kind of inspiration and that of obeying a rule? For they are surely
+not the same. In the case of inspiration I await direction. I shall not
+be able to teach anyone else my 'technique' of following the line.
+Unless, indeed, I teach him some way of hearkening, some kind of
+receptivity. But then, of course, I cannot require him to follow the line
+in the same way as I do.
+These are not my experiences of acting from inspiration and according to a rule; they are grammatical notes.
+
+86e
+
+224. The word "agreement" and the word "rule" are related to
+one another, they are cousins. If I teach anyone the use of the one
+word, he learns the use of the other with it.
+2 2 5 . The use of the word "rule" and the use of the word "same" are
+interwoven. (As are the use of "proposition" and the use of "true".)
+226. Suppos6 someone gets the series of numbers i, 3, 5, 7, . . . . by
+working out the series 2.x -f- i1. And now he asks himself: "But am I
+always doing the same thing, or something different every time?"
+If from one day to the next you promise: "To-morrow I will come
+and see you" — are you saying the same thing every day, or every day
+something different?
+227. Would it make sense to say "If he did something different every
+day we should not say he was obeying a rule"? That makes no sense.
+228. "We see a series in just one way!" — All right, but what is
+that way? Clearly we see it algebraically, and as a segment of an
+expansion. Or is there more in it than that? — "But the way we see it
+surely gives us everything!" — But that is not an observation about the
+segment of the series; or about anything that we notice in it; it gives
+expression to the fact that we look to the rule for instruction and do
+something, without appealing to anything else for guidance.
+229. I believe that I perceive something drawn very fine in a
+segment of a series, a characteristic design, which only needs the
+addition of "and so on", in order to reach to infinity.
+230. "The line intimates to me which way I am to go" is only a
+paraphrase of: it is my last arbiter for the way I am to go.
+231. "But surely you can see . . . .?" That is just the characteristic
+expression of someone who is under the compulsion of a rule.
+1
+
+The MSS. have: . . . . der Reihe x = i, 3, j, 7, . . . . indem er die Reihe der x2 + i
+hinschreibt. — Ed.
+
+87e
+
+235. It would also be possible to imagine such a training in a sort
+of arithmetic. Children could calculate, each in his own way—as long
+as they listened to their inner voice and obeyed it. Calculating in this
+way would be like a sort of composing.
+234. Would it not be possible for us, however, to calculate as we
+actually do (all agreeing, and so on), and still at every step to have a
+feeling of being guided by the rules as by a spell, feeling astonishment
+at the fact that we agreed? (We might give thanks to the Deity for our
+agreement.)
+2 3 5 . This merely shews what goes to make up what we call
+"obeying a rule" in everyday life.
+236. Calculating prodigies who get the right answer but cannot
+say how. Are we to say that they do not calculate? (A family of cases.)
+237. Imagine someone using a line as a rule in the following
+way: he holds a pair of compasses, and carries one of its points along
+the line that is the 'rule', while the other one draws the line that follows
+the rule. And while he moves along the ruling line he alters the opening of the compasses, apparently with great precision, looking at the
+rule the whole time as if it determined what he did. And watching him
+we see no kind of regularity in this opening and shutting of the compasses. We cannot learn his way of following the line from it. Here
+perhaps one really would say: "The original seems to intimate to him
+which way he is to go. But it is not a rule."
+238. The rule can only seem to me to produce all its consequences
+in advance if I draw them as a matter of course. As much as it is a matter
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+PHILOSOPHICAL INVESTIGATIONS I
+
+of course for me to call this colour "blue". (Criteria for the fact that
+something is 'a matter of course' for me.)
+
+individual words of this language are to refer to what can only be
+known to the person speaking; to his immediate private sensations.
+So another person cannot understand the language.
+
+88e
+
+239. How is he to know what colour he is to pick out when he
+hears "red"?—Quite simple: he is to take the colour whose image
+occurs to him when he hears the word.—But how is he to know which
+colour it is 'whose image occurs to him'? Is a further criterion needed
+for that? (There is indeed such a procedure as choosing the colour
+which occurs to one when one hears the word " . . . . " )
+" 'Red' means the colour that occurs to me when I hear the word
+<recl' "—would be a definition. Not an explanation of what it is to use
+a word as a name.
+240. Disputes do not break out (among mathematicians, say) over
+the question whether a rule has been obeyed or not. People don't
+come to blows over it, for example. That is part of the framework
+on which the working of our language is based (for example, in giving
+descriptions).
+241. "So you are saying that human agreement decides what is
+true and what is false?"—It is what human beings say that is true and
+false; and they agree in the language they use. That is not agreement in
+opinions but in form of life.
+242. If language is to be a means of communication there must
+be agreement not only in definitions but also (queer as this may
+sound) in judgments. This seems to abolish logic, but does not do so.—
+It is one thing to describe methods of measurement, and another to
+obtain and state results of measurement. But what we call "measuring"
+is partly determined by a certain constancy in results of measurement.
