@@ -6,4 +6,4 @@ collatz i | i == 1         = random
           | i `mod` 2 == 0 = i `div` 2
           | otherwise      = 3*i + 1
 rep s m = let (a:_:b:(_:_:d):e) = lines s in init $ unlines (a:("-- " ++ g !! m):b:("n=" ++ show m):e)
-main = q "import Gedanken\n-- And this means: we fail to be struck by what, once seen, is most striking and most powerful.\nq a = let a' = rep a (collatz n) in putStr $ a' ++ show a'\nn=720250\ncollatz i | i == 1         = random\n          | i `mod` 2 == 0 = i `div` 2\n          | otherwise      = 3*i + 1\nrep s m = let (a:_:b:(_:_:d):e) = lines s in init $ unlines (a:(\"-- \" ++ g !! m):b:(\"n=\" ++ show m):e)\nmain = q "
+main = q "import PhilosophicalInvestigations\n-- And this means: we fail to be struck by what, once seen, is most striking and most powerful.\nq a = let a' = rep a (collatz n) in putStr $ a' ++ show a'\nn=720250\ncollatz i | i == 1         = random\n          | i `mod` 2 == 0 = i `div` 2\n          | otherwise      = 3*i + 1\nrep s m = let (a:_:b:(_:_:d):e) = lines s in init $ unlines (a:(\"-- \" ++ g !! m):b:(\"n=\" ++ show m):e)\nmain = q "
