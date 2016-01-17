@@ -1,4 +1,4 @@
-module Gedanken where
+module Thoughts where
 import System.Random
 import System.IO.Unsafe
 
