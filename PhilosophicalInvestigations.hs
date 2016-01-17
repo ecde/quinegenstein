@@ -1,4 +1,4 @@
-module Thoughts where
+module PhilosophicalInvestigations where
 import System.Random
 import System.IO.Unsafe
 
