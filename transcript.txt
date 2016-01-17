@@ -1,6 +1,4 @@
-
-
-138. But can't the meaning of a word that I understand fit the
+ But can't the meaning of a word that I understand fit the
 sense of a sentence that I understand? Or the meaning of one word
 fit the meaning of another?——Of course, if the meaning is the use we
 make of the word, it makes no sense to speak of such 'fitting.' But
@@ -13,7 +11,7 @@ a kind of calculation) and then realize that I did not understand it?
 ("I thought I knew what 'relative' and 'absolute' motion meant, but
 I see that I don't know.")
 
-139. When someone says the word "cube" to me, for example,
+ When someone says the word "cube" to me, for example,
 I know what it means. But can the whole use of the word come before
 my mind, when I understand it in this way?
 Well, but on the other hand isn't the meaning of the word also
@@ -34,7 +32,7 @@ projection according to which the picture does fit after all.
 The picture of the cube did indeed suggest a certain use to us, but
 it was possible for me to use it differently.
 
-140. Then what sort of mistake did I make; was it what we should
+ Then what sort of mistake did I make; was it what we should
 like to express by saying: I should have thought the picture forced a
 particular use on me? How could I think that? What did I think? Is
 there such a thing as a picture, or something like a picture, that forces
@@ -72,7 +70,7 @@ if he had been sliding downhill in that position? Perhaps a Martian
 would describe the picture so. I do not need to explain why we do not
 describe it so.
 
-141. Suppose, however, that not merely the picture of the cube,
+ Suppose, however, that not merely the picture of the cube,
 but also the method of projection comes before our mind?——How
 am I to imagine this?—Perhaps I see before me a schema shewing the
 method of projection: say a picture of two cubes connected by lines
@@ -95,7 +93,7 @@ inasmuch as the picture makes us expect a different use, because people
 in general apply this picture like this.
 I want to say: we have here a normal case, and abnormal cases.
 
-142. It is only in normal cases that the use of a word is clearly
+ It is only in normal cases that the use of a word is clearly
 prescribed; we know, are in no doubt, what to say in this or that case.
 The more abnormal the case, the more doubtful it becomes what
 we are to say. And if things were quite different from what they
@@ -109,7 +107,7 @@ such lumps to suddenly grow or shrink for no obvious reason.
 This remark will become clearer when we discuss such things as the
 relation of expression to feeling, and similar topics.
 
-143. Let us now examine the following kind of language-game:
+ Let us now examine the following kind of language-game:
 when A gives an order B has to write down series of signs according
 to a certain formation rule.
 The first of these series is meant to be that of the natural numbers in
@@ -127,7 +125,7 @@ communication stops at that point.—Or again, he makes 'mistakes"
 in the order.—The difference between this and the first case will of
 course be one of frequency.—Or he makes a systematic mistake; for
 example, he copies every other number, or he copies the series o, i, 2,
-3, 4, 5, .... like this: i, o, 3, 2, 5, 4, . . . . . Here we shall almost be
+3, 4, 5, .... like this: i, o, 3, 2, 5, 4, ..... Here we shall almost be
 tempted to say that he has understood wrong.
 Notice, however, that there is no sharp distinction between a random
 mistake and a systematic one. That is, between what you are inclined
@@ -137,7 +135,7 @@ from a bad habit). Or perhaps one accepts his way of copying and
 tries to teach him ours as an oflfshoot, a variant of his.—And here too
 our pupil's capacity to learn may come to an end.
 
-144. What do I mean when I say "the pupil's capacity to learn may
+ What do I mean when I say "the pupil's capacity to learn may
 come to an end here"? Do I say this from my own experience? Of
 course not. (Even if I have had such experience.) Then what am I
 doiag with that proposition? Well, I should like you to say: "Yes,
@@ -149,7 +147,7 @@ given case differently: that is, to compare it with this rather than that
 set of pictures. I have changed his way of looking at things. (Indian
 mathematicians: "Look at this.")
 
-145. Suppose the pupil now writes the series o to 9 to our satisfaction.—And this will only be the case when he is often successful, not if
+ Suppose the pupil now writes the series o to 9 to our satisfaction.—And this will only be the case when he is often successful, not if
 he does it right once in a hundred attempts. Now I continue the series
 and draw his attention to the recurrence of the first series in the units;
 and then to its recurrence in the tens. (Which only means that I use
@@ -165,21 +163,21 @@ can say he has mastered the system.—But how far need he continue
 the series for us to have the right to say that? Clearly you cannot state
 a limit here.
 
-146. Suppose I now ask: "Has he understood the system when he
+ Suppose I now ask: "Has he understood the system when he
 continues the series to the hundredth place?" Or—if I should not
-speak of 'understanding' in connection with our primitive languagegame: Has he got the system, if he continues the series correctly so
+speak of 'understanding' in connection with our primitive language-game: Has he got the system, if he continues the series correctly so
 far?—Perhaps you will say here: to have got the system (or, again, to
 understand it) can't consist in continuing the series up to this or that
 number: that is only applying one's understanding. The understanding
 itself is a state which is the source of the correct use.
 What is one really thinking of here? Isn't one thinking of the
-derivation of a series from its algebraic formula? Or at least of something analogous?—But this is where we were before. The point is,
+derivation of a series from its algebraic formula? Or at least of something analogous? —But this is where we were before. The point is,
 we can think of more than one application of an algebraic formula;
 and every type of application can in turn be formulated algebraically;
 but naturally this does not get us any further.—The application is still
 a criterion of understanding.
 
-147. "But how can it be? When I say I understand the rule of a
+ "But how can it be? When I say I understand the rule of a
 series, I am surely not saying so because I \\zvzfound out that up to now
 I have applied the algebraic formula in such-and-such a way! In my
 own case at all events I surely know that I mean such-and-such a
@@ -189,14 +187,14 @@ series quite apart from remembering actual applications to particular
 numbers. And you will perhaps say: "Of course! For the series is
 infinite and the bit of it that I can have developed finite."
 
-148. But what does this knowledge consist in? Let me ask: When
+ But what does this knowledge consist in? Let me ask: When
 do you know that application? Always? day and night? or only
 when you are actually thinking of the rule? do you know it, that is,
 in the same way as you know the alphabet and the multiplication table?
 Or is what you call "knowledge" a state of consciousness or a process—
 say a thought of something, or the like?
 
-149. If one says that knowing the ABC is a state of the mind,
+ If one says that knowing the ABC is a state of the mind,
 one is thinking of a state of a mental apparatus (perhaps of the brain)
 by means of which we explain the manifestations of that knowledge.
 Such a state is called a disposition. But there are objections to speaking
@@ -206,11 +204,11 @@ here than to use the words "conscious" and "unconscious" for the
 contrast between states of consciousness and dispositions. For this
 pair of terms covers up a grammatical difference.)
 
-150. The grammar of the word "knows" is evidently closely
+ The grammar of the word "knows" is evidently closely
 related to that of "can", "is able to". But also closely related to that
 of "understands". ('Mastery' of a technique,)
 
-151. But there is also this use of the word "to know": we say
+ But there is also this use of the word "to know": we say
 '"Now I know!"—and similarly "Now I can do it!" and "Now I
 understand!"
 Let us imagine the following example: A writes series of numbers
@@ -225,12 +223,12 @@ number after another, B was occupied with trying various algebraic
 formulae on the numbers which had been written down. After A had
 written the number 19 B tried the formula an — n2 -f n — i; and the
 next number confirmed his hypothesis.
-(a) "Understanding a word": a state. But a mental state?—Depression, excitement, pain, are called mental states. Carry out a grammatical
+(a) "Understanding a word": a state. But a mental state? —Depression, excitement, pain, are called mental states. Carry out a grammatical
 investigation as follows: we say
 "He was depressed the whole day".
 "He was in great excitement the whole day".
 "He has been in continuous pain since yesterday".—
-We also say "Since yesterday I have understood this word". "Continuously", though?—To be sure, one can speak of an interruption
+We also say "Since yesterday I have understood this word". "Continuously", though? —To be sure, one can speak of an interruption
 of understanding. But in what cases? Compare: "When did your pains
 get less?" and "When did you stop understanding that word?"
 (b) Suppose it were asked: "When do you know how to play chess?
@@ -248,7 +246,7 @@ just as he would have done if A had written down the series i, 3, 5, 7, 9.
 he had what may be called the sensation "that's easy!". (Such a sensation is, for example, that of a light quick intake of breath, as when
 one is slightly startled.)
 
-152. But are the processes which I have described here understanding!
+ But are the processes which I have described here understanding!
 "B understands the principle of the series" surely doesn't mean
 simply: the formula "an — . . . . " occurs to B. For it is perfectly
 imaginable that the formula should occur to him and that he should
@@ -256,7 +254,7 @@ nevertheless not understand. "He understands" must have more in it
 than: the formula occurs to him. And equally, more than any of those
 more or less characteristic accompaniments or manifestations of understanding.
 
-153. We are trying to get hold of the mental process of understanding which seems to be hidden behind those coarser and therefore
+ We are trying to get hold of the mental process of understanding which seems to be hidden behind those coarser and therefore
 more readily visible accompaniments. But we do not succeed; or,
 rather, it does not get as far as a real attempt. For even supposing I had
 found something that happened in all those cases of understanding,—
@@ -265,7 +263,7 @@ understanding have been hidden, when I said "Now I understand"
 because I understood?! And if I say it is hidden—then how do I know
 what I have to look for? I am in a muddle.
 
-154. But wait—if "Now I understand the principle" does not mean
+ But wait—if "Now I understand the principle" does not mean
 the same as "The formula . . . . occurs to me" (or "I say the formula",
 "I write it down", etc.) —does it follow from this that I employ the
 sentence "Now I understand . . . . . " or "Now I can go on" as a
@@ -284,14 +282,14 @@ mental process.
 (A pain's growing more and less; the hearing of a tune or a sentence:
 these are mental processes.)
 
-155. Thus what I wanted to say was: when he suddenly knew
+ Thus what I wanted to say was: when he suddenly knew
 how to go on, when he understood the principle, then possibly he
 had a special experience—and if he is asked: "What was it? What took
 place when you suddenly grasped the principle?" perhaps he will
 describe it much as we described it above——but for us it is the circumstances under which he had such an experience that justify him in
 saying in such a case that he understands, that he knows how to go on.
 
-156. This will become clearer if we interpolate the consideration
+ This will become clearer if we interpolate the consideration
 of another word, namely "reading". First I need to remark that I am
 not counting the understanding of what is read as part of 'reading' for
 purposes of this investigation: reading is here the activity of rendering
@@ -344,7 +342,7 @@ And what goes on in them must distinguish reading from not reading.
 —But these mechanisms are only hypotheses, models designed to
 explain, to sum up, what you observe.
 
-157. Consider the following case. Human beings or creatures of
+ Consider the following case. Human beings or creatures of
 some other kind are used by us as reading-machines. They are trained
 for this purpose. The trainer says of some that they can already read,
 of others that they cannot yet do so. Take the case of a pupil who lias
@@ -379,7 +377,7 @@ he did.—The change when the pupil began to read was a change in
 his behaviour, and it makes no sense here to speak of 'a first word in
 his new state'.
 
-158. But isn't that only because of our too slight acquaintance
+ But isn't that only because of our too slight acquaintance
 with what goes on in the brain and the nervous system? If we had
 a more accurate knowledge of these things we should see what connexions were established by the training, and then we should be able
 to say when we looked into his brain: "Now he has read this word,
@@ -390,7 +388,7 @@ only probable? And how probable is it? Now, ask yourself: what do
 you know about these things?——But if it is a priori, that means that
 it is a form of account which is very convincing to us.
 
-159. But when we think the matter over we are tempted to say:
+ But when we think the matter over we are tempted to say:
 the one real criterion for anybody's reading is the conscious act of
 reading, the act of reading the sounds off from the letters. "A man
 surely knows whether he is reading or only pretending to read!"—
@@ -408,7 +406,7 @@ the dial of your watch and read them.—What was it that you called
 "reading" in the latter case? That is to say: what did you do, to make
 it into reading?
 
-160. But imagine the following case: We give someone who can
+ But imagine the following case: We give someone who can
 read fluently a text that he never saw before. He reads it to us—but
 with the sensation of saying something he has learnt by heart (this
 might be the effect of some drug). Should we say in such a case that
@@ -430,12 +428,12 @@ the same interpretation of the marks: here we should certainly be
 inclined to say he was making up an alphabet for himself ad hoc and
 then reading accordingly.
 
-161. And remember too that there is a continuous series of transitional cases between that in which a person repeats from memory
+ And remember too that there is a continuous series of transitional cases between that in which a person repeats from memory
 what he is supposed to be reading, and that in which he spells out every
 word without being helped at all by guessing from the context or
 knowing by heart.
 
-162. Let us trv the following definition: You are reading when
+ Let us trv the following definition: You are reading when
 you derive the reproduction from the original. And by "the original" I
 mean the text which you read or copy; the dictation from which you
 write; the score from which you play; etc. etc..—Now suppose we have,
@@ -459,7 +457,7 @@ letters in one column and cursive letters in the other. And he shews
 that he is deriving his script from the printed words by consulting the
 table.
 
-163. But suppose that when he did this he always wrote b for A,
+ But suppose that when he did this he always wrote b for A,
 c for B, 6? for C, and so on, and a for Z?—Surely we should call this too
 a derivation by means of the table.—He is using it now, we might say,
 according to the second schema in §86 instead of the first.
@@ -474,7 +472,7 @@ a random one?
 But does this mean that the word "to derive" really has no meaning,
 since the meaning seems to disintegrate when we follow it up?
 
-164. In case (162) the meaning of the word "to derive" stood out
+ In case (162) the meaning of the word "to derive" stood out
 clearly. But we told ourselves that this was only a quite special case
 of deriving; deriving in a quite special garb, which had to be stripped
 from it if we wanted to see the essence of deriving. So we stripped
@@ -486,7 +484,7 @@ his 'surface' was one case out of the family of cases of deriving.
 And in the same way we also use the word "to read" for a family
 of cases. And in different circumstances we apply different criteria for
 a person's reading.
-165. But surely—we should like to say—reading is a quite particular
+ But surely—we should like to say—reading is a quite particular
 process 1 Read a page of print and you can see that something special
 is going on, something highly characteristic.——Well, what does go on
 when I read the page? I see printed words and I say words out loud.
@@ -509,7 +507,7 @@ sound "nothing"—but the spoken words as it were slip in as one
 reads. And if I so much as look at a German printed word, there
 occurs a peculiar process, that of hearing the sound inwardly.
 
-166. I said that when one reads the spoken words come 'in a
+ I said that when one reads the spoken words come 'in a
 special way': but in what way? Isn't this a fiction? Let us look at
 individual letters and attend to the way the sound of the letter comes.
 Read the letter A. — Now, how did the sound come? — We have no
@@ -537,7 +535,7 @@ sound 'sh' ".
 (Compare with this the idea that memory images are distinguished
 from other mental images by some special characteristic.)
 
-167. Now what is there in the proposition that reading is 'a quite
+ Now what is there in the proposition that reading is 'a quite
 particular process'? It presumably means that when we read one
 particular process takes place, which we recognize.—But suppose
 that I at one time read a sentence in print and at another write it in
@@ -559,7 +557,7 @@ exciting a strong reaction in us.—
 Remember that the look of a word is familiar to us in the same kind
 of way as its sound.
 
-168. Again, our eye passes over printed lines differently from the
+ Again, our eye passes over printed lines differently from the
 way it passes over arbitrary pothooks and flourishes. (I am not
 speaking here of what can be established by observing the movement
 of the eyes of a reader.) The eye passes, one would like to say, with
@@ -572,7 +570,7 @@ reading ordinary print with reading words which are printed entirely
 in capital letters, as solutions of puzzles sometimes are. How different
 it is!—Or reading our script from right to left.)
 
-169. But when we read don't we feel the word-shapes somehow
+ But when we read don't we feel the word-shapes somehow
 causing our utterance?——Read a sentence.—And now look along the
 symbols "&%#%$#@@" and say a sentence as you do so. Can't one feel that in the first case
 the utterance was connected with seeing the signs and in the second
@@ -601,7 +599,7 @@ how it is when I make the experiment; but of course it is not so if I
 happen to be looking at the mark "§" and at the same time pronounce
 a word in which the sound "i" occurs.
 
-170. It would never have occurred to us to think that we/<?// the
+ It would never have occurred to us to think that we/<?// the
 influence of the letters on us when reading, if we had not compared the
 case of letters with that of arbitrary marks. And here we are indeed
 noticing a difference. And we interpret it as the difference between being
@@ -618,7 +616,7 @@ of causal connexion, of being guided, that is really meant to imply that
 I as it were feel the movement of the lever which connects seeing the
 letters with speaking.
 
-171. I might have used other words to hit off the experience I have
+ I might have used other words to hit off the experience I have
 when I read a word. Thus I might say that the written word intimates
 the sound to me.—Or again, that when one reads, letter and sound
 form a unity—as it were an alloy. (In the same way e.g. the faces of
@@ -635,7 +633,7 @@ more accurate by saying what can be noticed about the object on
 closer inspection.
 
 
-172. Let us consider the experience of being guided, and ask
+ Let us consider the experience of being guided, and ask
 ourselves: what does this experience consist in when for instance our
 course is guided?—Imagine the following cases:
 You are in a playing field with your eyes bandaged, and someone
@@ -654,7 +652,7 @@ All these situations are similar to one another; but what is common
 to all the experiences?
 
 
-173. "But being guided is surely a particular experience!"—The
+ "But being guided is surely a particular experience!"—The
 answer to this is: you are now thinking of a particular experience of
 being guided.
 If I want to realize the experience of the person in one of the earlier
@@ -676,7 +674,7 @@ something more inward, more essential."—It is as if at first all these
 more or less inessential processes were shrouded in a particular
 atmosphere, which dissipates when I look closely at them.
 
-174. Ask yourself how you draw a line parallel to a given one 'with
+ Ask yourself how you draw a line parallel to a given one 'with
 deliberation'—and another time, with deliberation, one at an angle
 to it. What is the experience of deliberation? Here a particular look,
 a gesture, at once occur to you—and then you would like to say:
@@ -685,7 +683,7 @@ to add nothing).
 (This is connected with the problem of the nature of intention, of
 willing.)
 
-175. Make some arbitrary doodle on a bit of paper.——And now
+ Make some arbitrary doodle on a bit of paper.——And now
 make a copy next to it, let yourself be guided by it.——I should like
 to say: "Sure enough, I was guided here. But as for what was characteristic in what happened—if 1 say what happened, I no longer find it
 characteristic."
@@ -694,11 +692,11 @@ simple, I notice nothing special; but afterwards, when I ask myself
 what it was that happened, it seems to have been something indescribable. Afterwards no description satisfies me. It's as if I couldn't believe
 that I merely looked, made such-and-such a face, and drew a line.—
 But don't I remember anything else? No; and yet I feel as if there must
-have been something else; in particular when I say "guidance1'', "/»fluence", and other such words to myself. "For surely," I tell myself,
+have been something else; in particular when I say "guidance", "influence", and other such words to myself. "For surely," I tell myself,
 "I was being guided."—Only then does the idea of that ethereal,
 intangible influence arise.
 
-176. When I look back on the experience I have the feeling that
+ When I look back on the experience I have the feeling that
 what is essential about it is an 'experience of being influenced', of a
 connexion—as opposed to any mere simultaneity of phenomena: but
 at the same time I should not be willing to call any experienced phenomenon the "experience of being influenced". (This contains the
@@ -707,7 +705,7 @@ that I had experienced the 'because', and yet I do not want to call
 any phenomenon the "experience of the because".
 
 
-177. I should like to say: "I experience the because". Not because
+ I should like to say: "I experience the because". Not because
 I remember such an experience, but because when I reflect on what I
 experience in such a case I look at it through the medium of the concept
 'because' (or 'influence' or 'cause' or 'connexion').—For of course it
@@ -717,7 +715,7 @@ line—under certain circumstances, it may consist in my drawing it
 parallel to the other—even though this in turn is not in general essential
 to being guided.—
 
-178. We also say: "You can see that I am guided by it"—and
+ We also say: "You can see that I am guided by it"—and
 what do you see, if you see this?
 When I say to myself: "But I am guided"—I make perhaps a movement with my hand, which expresses guiding.—Make such a movement of the hand as if you were guiding someone along, and then ask
 yourself what the guiding character of this movement consisted in. For
@@ -726,7 +724,7 @@ one of 'guiding'. This movement and feeling did not contain the
 essence of guiding, but still this word forces itself upon you. It is just
 a single form of guiding which forces the expression on us.
 
-179. Let us return to our case (151). It is clear that we should not
+ Let us return to our case (151). It is clear that we should not
 say B had the right to say the words "Now I know how to go on",
 just because he thought of the formula—unless experience shewed
 that there was a connexion between thinking of the formula—saying it,
@@ -749,19 +747,19 @@ perhaps with a feeling of relief; and that he did in fact go on working
 out the series without using the formula. And in this case too we
 should say—in certain circumstances—that he did know how to go on.
 
-180. This is how these words are used. It would be quite misleading,
+ This is how these words are used. It would be quite misleading,
 in this last case, for instance, to call the words a "description of a
 mental state".—One might rather call them a "signal"; and we judge
 whether it was rightly employed by what he goes on to do.
 
-181. In order to understand this, we need also to consider the
+ In order to understand this, we need also to consider the
 following: suppose B says he knows how to go on—but when he
 wants to go on he hesitates and can't do it: are we to say that he was
 wrong when he said he could go on, or rather that he was able to go on
 then, only now is not?—Clearly we shall say different things in different
 cases. (Consider both kinds of case.)
 
-182. The grammar of "to fit", "to be able", and "to understand".
+ The grammar of "to fit", "to be able", and "to understand".
 (Exercises: (i) When is a cylinder C said to fit into a hollow cylinder H?
 Only while C is stuck into H? (2) Sometimes we say that C ceased to
 fit into H at such-and-such a time. What criteria are used in such a
@@ -785,7 +783,7 @@ resolve them; and so, a fortiori does the assertion that a word is
 'indefinable'.)
 
 
-183. But did "Now I can go on" in case (151) mean the same as
+ But did "Now I can go on" in case (151) mean the same as
 "Now the formula has occurred to me" or something different?
 We may say that, in those circumstances, the two sentences have the
 same sense, achieve the same thing. But also that in general these two
@@ -799,7 +797,7 @@ totality of conditions corresponding to the nature of each case (e.g.
 for a person's walking) so that, as it were, he could not but walk if
 they were all fulfilled.
 
-184. I want to remember a tune and it escapes me; suddenly I say
+ I want to remember a tune and it escapes me; suddenly I say
 "Now I know it" and I sing it. What was it like to suddenly know it?
 Surely it can't have occurred to me in its entirety in that moment'!—
 Perhaps you will say: "It's a particular feeling, as if it were there"—
@@ -815,7 +813,7 @@ knows the tune, then it is (somehow) present to his mind in its entirety
 at that moment——and this is a definition of the expression "the tune is
 present to his mind in its entirety".
 
-185. Let us return to our example (143). Now—judged by the
+ Let us return to our example (143). Now—judged by the
 usual criteria—the pupil has mastered the series of natural numbers.
 Next we teach him to write down other series of cardinal numbers and
 get him to the point of writing down series of the form o, n, zn, 3n, etc.
@@ -838,7 +836,7 @@ naturally reacted to the gesture of pointing with the hand by looking
 in the direction of the line from finger-tip to wrist, not from wrist to
 finger-tip.
 
-186. "What you are saying, then, comes to this: a new insight —
+ "What you are saying, then, comes to this: a new insight —
 intuition — is needed at every step to carry out the order '-f-n' correctly." — To carry it out correctly! How is it decided what is the right
 step to take at any particular stage? — "The right step is the one that
 accords with the order — as it was meant" — So when you gave the
@@ -854,7 +852,7 @@ then put into the sentence — whatever that may have consisted in). It
 would almost be more correct to say, not that an intuition was needed
 at every stage, but that a new decision was needed at every stage.
 
-187. "But I already knew, at the time when I gave the order, that
+ "But I already knew, at the time when I gave the order, that
 he ought to write 1002 after 1000." — Certainly; and you can also say
 you meant it then; only you should not let yourself be misled by the
 grammar of the words "know" and "mean". For you don't want
@@ -867,7 +865,7 @@ doubt. This assumption is rather of the same kind as: "If he had fallen
 into the water then, I should have jumped in after him".—Now, what
 was wrong with your idea?
 
-188. Here I should first of all like to say: your idea was that that
+ Here I should first of all like to say: your idea was that that
 act of meaning the order had in its own way already traversed all
 those steps: that when you meant it your mind as it were flew ahead
 and took all the steps before you physically arrived at this or that
@@ -877,7 +875,7 @@ really already taken, even before I take them in writing or orally or in
 thought." And it seemed as if they were in some unique way predetermined, anticipated—as only the act of meaning can anticipate
 reality.
 
-189. "But are the steps then not determined by the algebraic
+ "But are the steps then not determined by the algebraic
 formula?"—The question contains a mistake.
 We use the expression: "The steps are determined by the formula.....".
 How is it used?—We may perhaps refer to the fact that people are
