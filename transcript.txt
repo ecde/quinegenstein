@@ -1,1375 +1,780 @@
- But can't the meaning of a word that I understand fit the
-sense of a sentence that I understand? Or the meaning of one word
-fit the meaning of another?——Of course, if the meaning is the use we
-make of the word, it makes no sense to speak of such 'fitting.' But
-we understand the meaning of a word when we hear or say it; we grasp
-it in a flash, and what we grasp in this way is surely something different
-from the 'use' which is extended in time!
-Must I know whether I understand a word? Don't I also sometimes
-imagine myself to understand a word (as I may imagine I understand
-a kind of calculation) and then realize that I did not understand it?
-("I thought I knew what 'relative' and 'absolute' motion meant, but
-I see that I don't know.")
-
- When someone says the word "cube" to me, for example,
-I know what it means. But can the whole use of the word come before
-my mind, when I understand it in this way?
-Well, but on the other hand isn't the meaning of the word also
-determined by this use ? And can these ways of determining meaning
-conflict? Can what we grasp in a flash accord with a use, fit or fail to
-fit it? And how can what is present to us in an instant, what comes
-before our mind in an instant, fit a use"?
-What really comes before our mind when we understand a word?—
-Isn't it something like a picture? Can't it be a picture?
-Well, suppose that a picture does come before your mind when you
-hear the word "cube", say the drawing of a cube. In what sense can
-this picture fit or fail to fit a use of the word "cube"?—Perhaps you
-say: "It's quite simple;—if that picture occurs to me and I point to
-a triangular prism for instance, and say it is a cube, then this use of the
-word doesn't fit the picture."—But doesn't it fit? I have purposely
-so chosen the example that it is quite easy to imagine a method of
-projection according to which the picture does fit after all.
-The picture of the cube did indeed suggest a certain use to us, but
-it was possible for me to use it differently.
-
- Then what sort of mistake did I make; was it what we should
-like to express by saying: I should have thought the picture forced a
-particular use on me? How could I think that? What did I think? Is
-there such a thing as a picture, or something like a picture, that forces
-a particular application on us; so that my mistake lay in confusing one
-picture with another?—For we might also be inclined to express
-ourselves like this: we are at most under a psychological, not a logical,
-compulsion. And now it looks quite as if we knew of two kinds of
-case.
-What was the effect of my argument? It called our attention to
-(reminded us of) the fact that there are other processes, besides the one
-we originally thought of, which we should sometimes be prepared to
-call "applying the picture of a cube". So our 'belief that the picture
-forced a particular application upon us' consisted in the fact that only
-the one case and no other occurred to us. "There is another solution
-as well" means: there is something else that I am also prepared to call
-a "solution"; to which I am prepared to apply such-and-such a picture,
-such-and-such an analogy, and so on.
-What is essential is to see that the same thing can come before our
-minds when we hear the word and the application still be different.
-Has it the same meaning both times? I think we shall say not.
-(a) "I believe the right word in this case is . . . .". Doesn't this
-shew that the meaning of a word is a something that comes before our
-mind, and which is, as it were, the exact picture we want to use here?
-Suppose I were choosing between the words "imposing", "dignified",
-"proud", "venerable"; isn't it as though I were choosing between
-drawings in a portfolio?—No: the fact that one speaks of the appropriate
-word does not shew the existence of a something that etc.. One is
-inclined, rather, to speak of this picture-like something just because
-one can find a word appropriate; because one often chooses between
-words as between similar but not identical pictures; because pictures
-are often used instead of words, or to illustrate words; and so on.
-(&) I see a picture; it represents an old man walking up a steep
-path leaning on a stick.—How? Might it not have looked just the same
-if he had been sliding downhill in that position? Perhaps a Martian
-would describe the picture so. I do not need to explain why we do not
-describe it so.
-
- Suppose, however, that not merely the picture of the cube,
-but also the method of projection comes before our mind?——How
-am I to imagine this?—Perhaps I see before me a schema shewing the
-method of projection: say a picture of two cubes connected by lines
-of projection.—But does this really get me any further? Can't I now
-imagine different applications of this schema too?——Well, yes, but
-then can't an application come before my mind~?—It can: only we need to
-get clearer about our application of this expression. Suppose I explain
-various methods of projection to someone so that he may go on to
-apply them; let us ask ourselves when we should say that the method
-that I intend comes before his mind.
-Now clearly we accept two different kinds of criteria for this:
-on the one hand the picture (of whatever kind) that at some time or
-other comes before his mind; on the other, the application which—in
-the course of time—he makes of what he imagines. (And can't it be
-clearly seen here that it is absolutely inessential for the picture to exist
-in his imagination rather than as a drawing or model in front of him;
-or again as something that he himself constructs as a model?)
-Can there be a collision between picture and application? There can,
-inasmuch as the picture makes us expect a different use, because people
-in general apply this picture like this.
-I want to say: we have here a normal case, and abnormal cases.
-
- It is only in normal cases that the use of a word is clearly
-prescribed; we know, are in no doubt, what to say in this or that case.
-The more abnormal the case, the more doubtful it becomes what
-we are to say. And if things were quite different from what they
-actually are——if there were for instance no characteristic expression
-of pain, of fear, of joy; if rule became exception and exception rule;
-or if both became phenomena of roughly equal frequency——this would
-make our normal language-games lose their point.—The procedure of
-putting a lump of cheese on a balance and fixing the price by the
-turn of the scale would lose its point if it frequently happened for
-such lumps to suddenly grow or shrink for no obvious reason.
-This remark will become clearer when we discuss such things as the
-relation of expression to feeling, and similar topics.
-
- Let us now examine the following kind of language-game:
-when A gives an order B has to write down series of signs according
-to a certain formation rule.
-The first of these series is meant to be that of the natural numbers in
-decimal notation.—How does he get to understand this notation?—
-First of all series of numbers will be written down for him and he will
-be required to copy them. (Do not balk at the expression "series of
-numbers"; it is not being used wrongly here.) And here already there
-is a normal and an abnormal learner's reaction.—At first perhaps we
-guide his hand in writing out the series o to 9; but then the possibility
-of getting him to understand will depend on his going on to write
-it down independently.—And here we can imagine, e.g., that he
-does copy the figures independently, but not in the right order:
-he writes sometimes one sometimes another at random. And then
-communication stops at that point.—Or again, he makes 'mistakes"
-in the order.—The difference between this and the first case will of
-course be one of frequency.—Or he makes a systematic mistake; for
-example, he copies every other number, or he copies the series o, i, 2,
-3, 4, 5, .... like this: i, o, 3, 2, 5, 4, ..... Here we shall almost be
-tempted to say that he has understood wrong.
-Notice, however, that there is no sharp distinction between a random
-mistake and a systematic one. That is, between what you are inclined
-to call "random" and what "systematic".
-Perhaps it is possible to wean him from the systematic mistake (as
-from a bad habit). Or perhaps one accepts his way of copying and
-tries to teach him ours as an oflfshoot, a variant of his.—And here too
-our pupil's capacity to learn may come to an end.
-
- What do I mean when I say "the pupil's capacity to learn may
-come to an end here"? Do I say this from my own experience? Of
-course not. (Even if I have had such experience.) Then what am I
-doiag with that proposition? Well, I should like you to say: "Yes,
-it's true, you can imagine that too, that might happen too!"—But was
-I trying to draw someone's attention to the fact that he is capable of
-imagining that?——I wanted to put that picture before him, and his
-acceptance of the picture consists in his now being inclined to regard a
-given case differently: that is, to compare it with this rather than that
-set of pictures. I have changed his way of looking at things. (Indian
-mathematicians: "Look at this.")
-
- Suppose the pupil now writes the series o to 9 to our satisfaction.—And this will only be the case when he is often successful, not if
-he does it right once in a hundred attempts. Now I continue the series
-and draw his attention to the recurrence of the first series in the units;
-and then to its recurrence in the tens. (Which only means that I use
-particular emphases, underline figures, write them one under another
-in such-and-such ways, and similar things.)—And now at some
-point he continues the series independently—or he does not.—But
-why do you say that? so much is obvious!—Of course; I only
-wished to say: the effect of any further explanation depends on his
-veaction.
-Now, however, let us suppose that after some efforts on the teacher's
-part he continues the series correctly, that is, as we do it. So now we
-can say he has mastered the system.—But how far need he continue
-the series for us to have the right to say that? Clearly you cannot state
-a limit here.
-
- Suppose I now ask: "Has he understood the system when he
-continues the series to the hundredth place?" Or—if I should not
-speak of 'understanding' in connection with our primitive language-game: Has he got the system, if he continues the series correctly so
-far?—Perhaps you will say here: to have got the system (or, again, to
-understand it) can't consist in continuing the series up to this or that
-number: that is only applying one's understanding. The understanding
-itself is a state which is the source of the correct use.
-What is one really thinking of here? Isn't one thinking of the
-derivation of a series from its algebraic formula? Or at least of something analogous? —But this is where we were before. The point is,
-we can think of more than one application of an algebraic formula;
-and every type of application can in turn be formulated algebraically;
-but naturally this does not get us any further.—The application is still
-a criterion of understanding.
-
- "But how can it be? When I say I understand the rule of a
-series, I am surely not saying so because I \\zvzfound out that up to now
-I have applied the algebraic formula in such-and-such a way! In my
-own case at all events I surely know that I mean such-and-such a
-series; it doesn't matter how far I have actually developed it."—
-Your idea, then, is that you know the application of the rule of the
-series quite apart from remembering actual applications to particular
-numbers. And you will perhaps say: "Of course! For the series is
-infinite and the bit of it that I can have developed finite."
-
- But what does this knowledge consist in? Let me ask: When
-do you know that application? Always? day and night? or only
-when you are actually thinking of the rule? do you know it, that is,
-in the same way as you know the alphabet and the multiplication table?
-Or is what you call "knowledge" a state of consciousness or a process—
-say a thought of something, or the like?
-
- If one says that knowing the ABC is a state of the mind,
-one is thinking of a state of a mental apparatus (perhaps of the brain)
-by means of which we explain the manifestations of that knowledge.
-Such a state is called a disposition. But there are objections to speaking
-of a state of the mind here, inasmuch as there ought to be two different
-criteria for such a state: a knowledge of the construction of the apparatus, quite apart from what it does. (Nothing would be more confusing
-here than to use the words "conscious" and "unconscious" for the
-contrast between states of consciousness and dispositions. For this
-pair of terms covers up a grammatical difference.)
-
- The grammar of the word "knows" is evidently closely
-related to that of "can", "is able to". But also closely related to that
-of "understands". ('Mastery' of a technique,)
-
- But there is also this use of the word "to know": we say
-'"Now I know!"—and similarly "Now I can do it!" and "Now I
-understand!"
-Let us imagine the following example: A writes series of numbers
-down; B watches him and tries to find a law for the sequence of
-numbers. lf*he succeeds he exclaims: "Now I can go on!"——So this
-capacity, this understanding, is something that makes its appearance in
-a moment. So let us try and see what it is that makes its appearance
-here.—A has written down the numbers i, 5, u, 19, 29; at this point
-B says he knows how to go on. What happened here? Various things
-may have happened; for example, while A was slowly putting one
-number after another, B was occupied with trying various algebraic
-formulae on the numbers which had been written down. After A had
-written the number 19 B tried the formula an — n2 -f n — i; and the
-next number confirmed his hypothesis.
-(a) "Understanding a word": a state. But a mental state? —Depression, excitement, pain, are called mental states. Carry out a grammatical
-investigation as follows: we say
-"He was depressed the whole day".
-"He was in great excitement the whole day".
-"He has been in continuous pain since yesterday".—
-We also say "Since yesterday I have understood this word". "Continuously", though? —To be sure, one can speak of an interruption
-of understanding. But in what cases? Compare: "When did your pains
-get less?" and "When did you stop understanding that word?"
-(b) Suppose it were asked: "When do you know how to play chess?
-All the time? or just while you are making a move? And the whole of
-chess during each move?—How queer that knowing how to play
-chess should take such a short time, and a game so much longer!
-Or again, B does not think of formulae. He watches A writing his
-numbers down with a certain feeling of tension, and all sorts of vague
-thoughts go through his head. Finally he asks himself: "What is the
-series of differences?" He finds the series 4, 6, 8, 10 and says: Now I
-can go on.
-Or he watches and says "Yes, I know that series"—and continues it,
-just as he would have done if A had written down the series i, 3, 5, 7, 9.
-—Or he says nothing at all and simply continues the series. Perhaps
-he had what may be called the sensation "that's easy!". (Such a sensation is, for example, that of a light quick intake of breath, as when
-one is slightly startled.)
-
+ But can't the meaning of a word that I understand fit the sense of a sentence that I understand?
+ Or the meaning of one word fit the meaning of another?
+ ——Of course, if the meaning is the use we make of the word, it makes no sense to speak of such 'fitting.'
+ But we understand the meaning of a word when we hear or say it; we grasp it in a flash, and what we grasp in this way is surely something different from the 'use' which is extended in time!
+ Must I know whether I understand a word?
+ Don't I also sometimes imagine myself to understand a word (as I may imagine I understand a kind of calculation) and then realize that I did not understand it?
+ ("I thought I knew what 'relative' and 'absolute' motion meant, but I see that I don't know.")
+ When someone says the word "cube" to me, for example, I know what it means.
+ But can the whole use of the word come before my mind, when I understand it in this way?
+ Well, but on the other hand isn't the meaning of the word also determined by this use ?
+ And can these ways of determining meaning conflict?
+ Can what we grasp in a flash accord with a use, fit or fail to fit it?
+ And how can what is present to us in an instant, what comes before our mind in an instant, fit a use"?
+ What really comes before our mind when we understand a word?
+ — Isn't it something like a picture?
+ Can't it be a picture?
+ Well, suppose that a picture does come before your mind when you hear the word "cube", say the drawing of a cube.
+ In what sense can this picture fit or fail to fit a use of the word "cube"?
+ —Perhaps you say: "It's quite simple;—if that picture occurs to me and I point to a triangular prism for instance, and say it is a cube, then this use of the word doesn't fit the picture."
+ —But doesn't it fit?
+ I have purposely so chosen the example that it is quite easy to imagine a method of projection according to which the picture does fit after all.
+ The picture of the cube did indeed suggest a certain use to us, but it was possible for me to use it differently.
+ Then what sort of mistake did I make; was it what we should like to express by saying: I should have thought the picture forced a particular use on me?
+ How could I think that?
+ What did I think?
+ Is there such a thing as a picture, or something like a picture, that forces a particular application on us; so that my mistake lay in confusing one picture with another?
+ —For we might also be inclined to express ourselves like this: we are at most under a psychological, not a logical, compulsion.
+ And now it looks quite as if we knew of two kinds of case.
+ What was the effect of my argument?
+ It called our attention to (reminded us of) the fact that there are other processes, besides the one we originally thought of, which we should sometimes be prepared to call "applying the picture of a cube".
+ So our 'belief that the picture forced a particular application upon us' consisted in the fact that only the one case and no other occurred to us.
+ "There is another solution as well" means: there is something else that I am also prepared to call a "solution"; to which I am prepared to apply such-and-such a picture, such-and-such an analogy, and so on.
+ What is essential is to see that the same thing can come before our minds when we hear the word and the application still be different.
+ Has it the same meaning both times?
+ I think we shall say not.
+ (a) "I believe the right word in this case is . . . .".
+ Doesn't this shew that the meaning of a word is a something that comes before our mind, and which is, as it were, the exact picture we want to use here?
+ Suppose I were choosing between the words "imposing", "dignified", "proud", "venerable"; isn't it as though I were choosing between drawings in a portfolio?
+ —No: the fact that one speaks of the appropriate word does not shew the existence of a something that etc..
+ One is inclined, rather, to speak of this picture-like something just because one can find a word appropriate; because one often chooses between words as between similar but not identical pictures; because pictures are often used instead of words, or to illustrate words; and so on.
+ (&) I see a picture; it represents an old man walking up a steep path leaning on a stick.
+ —How?
+ Might it not have looked just the same if he had been sliding downhill in that position?
+ Perhaps a Martian would describe the picture so.
+ I do not need to explain why we do not describe it so.
+ Suppose, however, that not merely the picture of the cube, but also the method of projection comes before our mind?
+ ——How am I to imagine this?
+ —Perhaps I see before me a schema shewing the method of projection: say a picture of two cubes connected by lines of projection.
+ —But does this really get me any further?
+ Can't I now imagine different applications of this schema too?
+ ——Well, yes, but then can't an application come before my mind~?
+ —It can: only we need to get clearer about our application of this expression.
+ Suppose I explain various methods of projection to someone so that he may go on to apply them; let us ask ourselves when we should say that the method that I intend comes before his mind.
+ Now clearly we accept two different kinds of criteria for this: on the one hand the picture (of whatever kind) that at some time or other comes before his mind; on the other, the application which—in the course of time—he makes of what he imagines.
+ (And can't it be clearly seen here that it is absolutely inessential for the picture to exist in his imagination rather than as a drawing or model in front of him; or again as something that he himself constructs as a model?)
+ Can there be a collision between picture and application?
+ There can, inasmuch as the picture makes us expect a different use, because people in general apply this picture like this.
+ I want to say: we have here a normal case, and abnormal cases.
+ It is only in normal cases that the use of a word is clearly prescribed; we know, are in no doubt, what to say in this or that case.
+ The more abnormal the case, the more doubtful it becomes what we are to say.
+ And if things were quite different from what they actually are——if there were for instance no characteristic expression of pain, of fear, of joy; if rule became exception and exception rule; or if both became phenomena of roughly equal frequency——this would make our normal language-games lose their point.
+ —The procedure of putting a lump of cheese on a balance and fixing the price by the turn of the scale would lose its point if it frequently happened for such lumps to suddenly grow or shrink for no obvious reason.
+ This remark will become clearer when we discuss such things as the relation of expression to feeling, and similar topics.
+ Let us now examine the following kind of language-game: when A gives an order B has to write down series of signs according to a certain formation rule.
+ The first of these series is meant to be that of the natural numbers in decimal notation.
+ —How does he get to understand this notation?
+ — First of all series of numbers will be written down for him and he will be required to copy them.
+ (Do not balk at the expression "series of numbers"; it is not being used wrongly here.)
+ And here already there is a normal and an abnormal learner's reaction.
+ —At first perhaps we guide his hand in writing out the series o to 9; but then the possibility of getting him to understand will depend on his going on to write it down independently.
+ —And here we can imagine, e.g. , that he does copy the figures independently, but not in the right order: he writes sometimes one sometimes another at random.
+ And then communication stops at that point.
+ —Or again, he makes 'mistakes" in the order.
+ —The difference between this and the first case will of course be one of frequency.
+ —Or he makes a systematic mistake; for example, he copies every other number, or he copies the series o, i, 2, 3, 4, 5, .  ...  like this: i, o, 3, 2, 5, 4, .  ...  .
+ Here we shall almost be tempted to say that he has understood wrong.
+ Notice, however, that there is no sharp distinction between a random mistake and a systematic one.
+ That is, between what you are inclined to call "random" and what "systematic".
+ Perhaps it is possible to wean him from the systematic mistake (as from a bad habit).
+ Or perhaps one accepts his way of copying and tries to teach him ours as an oflfshoot, a variant of his.
+ —And here too our pupil's capacity to learn may come to an end.
+ What do I mean when I say "the pupil's capacity to learn may come to an end here"?
+ Do I say this from my own experience?
+ Of course not.
+ (Even if I have had such experience.)
+ Then what am I doiag with that proposition?
+ Well, I should like you to say: "Yes, it's true, you can imagine that too, that might happen too!"
+ —But was I trying to draw someone's attention to the fact that he is capable of imagining that?
+ ——I wanted to put that picture before him, and his acceptance of the picture consists in his now being inclined to regard a given case differently: that is, to compare it with this rather than that set of pictures.
+ I have changed his way of looking at things.
+ (Indian mathematicians: "Look at this.")
+ Suppose the pupil now writes the series o to 9 to our satisfaction.
+ —And this will only be the case when he is often successful, not if he does it right once in a hundred attempts.
+ Now I continue the series and draw his attention to the recurrence of the first series in the units; and then to its recurrence in the tens.
+ (Which only means that I use particular emphases, underline figures, write them one under another in such-and-such ways, and similar things.)
+ —And now at some point he continues the series independently—or he does not.
+ —But why do you say that? so much is obvious!
+ —Of course; I only wished to say: the effect of any further explanation depends on his veaction.
+ Now, however, let us suppose that after some efforts on the teacher's part he continues the series correctly, that is, as we do it.
+ So now we can say he has mastered the system.
+ —But how far need he continue the series for us to have the right to say that?
+ Clearly you cannot state a limit here.
+ Suppose I now ask: "Has he understood the system when he continues the series to the hundredth place?"
+ Or—if I should not speak of 'understanding' in connection with our primitive language-game: Has he got the system, if he continues the series correctly so far?
+ —Perhaps you will say here: to have got the system (or, again, to understand it) can't consist in continuing the series up to this or that number: that is only applying one's understanding.
+ The understanding itself is a state which is the source of the correct use.
+ What is one really thinking of here?
+ Isn't one thinking of the derivation of a series from its algebraic formula?
+ Or at least of something analogous?
+ —But this is where we were before.
+ The point is, we can think of more than one application of an algebraic formula; and every type of application can in turn be formulated algebraically; but naturally this does not get us any further.
+ —The application is still a criterion of understanding.
+ "But how can it be?  When I say I understand the rule of a series, I am surely not saying so because I found out that up to now I have applied the algebraic formula in such-and-such a way!  In my own case at all events I surely know that I mean such-and-such a series; it doesn't matter how far I have actually developed it."
+ — Your idea, then, is that you know the application of the rule of the series quite apart from remembering actual applications to particular numbers.
+ And you will perhaps say: "Of course!  For the series is infinite and the bit of it that I can have developed finite."
+ But what does this knowledge consist in?
+ Let me ask: When do you know that application?
+ Always? day and night? or only when you are actually thinking of the rule? do you know it, that is, in the same way as you know the alphabet and the multiplication table?
+ Or is what you call "knowledge" a state of consciousness or a process— say a thought of something, or the like?
+ If one says that knowing the ABC is a state of the mind, one is thinking of a state of a mental apparatus (perhaps of the brain) by means of which we explain the manifestations of that knowledge.
+ Such a state is called a disposition.
+ But there are objections to speaking of a state of the mind here, inasmuch as there ought to be two different criteria for such a state: a knowledge of the construction of the apparatus, quite apart from what it does.
+ (Nothing would be more confusing here than to use the words "conscious" and "unconscious" for the contrast between states of consciousness and dispositions.  For this pair of terms covers up a grammatical difference.)
+ The grammar of the word "knows" is evidently closely related to that of "can", "is able to".
+ But also closely related to that of "understands".
+ ('Mastery' of a technique.)
+ But there is also this use of the word "to know": we say '"Now I know!"—and similarly "Now I can do it!" and "Now I understand!"
+ Let us imagine the following example: A writes series of numbers down; B watches him and tries to find a law for the sequence of numbers.
+ lf he succeeds he exclaims: "Now I can go on!"
+ ——So this capacity, this understanding, is something that makes its appearance in a moment.
+ So let us try and see what it is that makes its appearance here.
+ —A has written down the numbers i, 5, u, 19, 29; at this point B says he knows how to go on.
+ What happened here?
+ Various things may have happened; for example, while A was slowly putting one number after another, B was occupied with trying various algebraic formulae on the numbers which had been written down.
+ After A had written the number 19 B tried the formula an — n2 -f n — i; and the next number confirmed his hypothesis.
+ (a) "Understanding a word": a state.
+ But a mental state?
+ —Depression, excitement, pain, are called mental states.
+ Carry out a grammatical investigation as follows: we say "He was depressed the whole day".
+ "He was in great excitement the whole day".
+ "He has been in continuous pain since yesterday".
+ — We also say "Since yesterday I have understood this word".
+ "Continuously", though?
+ —To be sure, one can speak of an interruption of understanding.
+ But in what cases?
+ Compare: "When did your pains get less?" and "When did you stop understanding that word?"
+ (b) Suppose it were asked: "When do you know how to play chess?
+ All the time? or just while you are making a move?
+ And the whole of chess during each move?
+ —How queer that knowing how to play chess should take such a short time, and a game so much longer!
+ Or again, B does not think of formulae.
+ He watches A writing his numbers down with a certain feeling of tension, and all sorts of vague thoughts go through his head.
+ Finally he asks himself: "What is the series of differences?"
+ He finds the series 4, 6, 8, 10 and says: Now I can go on.
+ Or he watches and says "Yes, I know that series"—and continues it, just as he would have done if A had written down the series i, 3, 5, 7, 9.
+ —Or he says nothing at all and simply continues the series.
+ Perhaps he had what may be called the sensation "that's easy!".
+ (Such a sensation is, for example, that of a light quick intake of breath, as when one is slightly startled.)
  But are the processes which I have described here understanding!
-"B understands the principle of the series" surely doesn't mean
-simply: the formula "an — . . . . " occurs to B. For it is perfectly
-imaginable that the formula should occur to him and that he should
-nevertheless not understand. "He understands" must have more in it
-than: the formula occurs to him. And equally, more than any of those
-more or less characteristic accompaniments or manifestations of understanding.
-
- We are trying to get hold of the mental process of understanding which seems to be hidden behind those coarser and therefore
-more readily visible accompaniments. But we do not succeed; or,
-rather, it does not get as far as a real attempt. For even supposing I had
-found something that happened in all those cases of understanding,—
-why should // be the understanding? And how can the process of
-understanding have been hidden, when I said "Now I understand"
-because I understood?! And if I say it is hidden—then how do I know
-what I have to look for? I am in a muddle.
-
- But wait—if "Now I understand the principle" does not mean
-the same as "The formula . . . . occurs to me" (or "I say the formula",
-"I write it down", etc.) —does it follow from this that I employ the
-sentence "Now I understand . . . . . " or "Now I can go on" as a
-description of a process occurring behind or side by side with that of
-saying the formula?
-If there has to be anything 'behind the utterance of the formula' it is
-particular circumstances', which justify me in saying I can go on—when
-the formula occurs to me.
-Try not to think of understanding as a 'mental process' at all.—
-For that is the expression which confuses you. But ask yourself: in
-what sort of case, in what kind of circumstances, do we say, "Now I
-know how to go on," when, that is, the formula has occurred to me?—
-In the sense in which there are processes (including mental processes)
-which are characteristic of understanding, understanding is not a
-mental process.
-(A pain's growing more and less; the hearing of a tune or a sentence:
-these are mental processes.)
-
- Thus what I wanted to say was: when he suddenly knew
-how to go on, when he understood the principle, then possibly he
-had a special experience—and if he is asked: "What was it? What took
-place when you suddenly grasped the principle?" perhaps he will
-describe it much as we described it above——but for us it is the circumstances under which he had such an experience that justify him in
-saying in such a case that he understands, that he knows how to go on.
-
- This will become clearer if we interpolate the consideration
-of another word, namely "reading". First I need to remark that I am
-not counting the understanding of what is read as part of 'reading' for
-purposes of this investigation: reading is here the activity of rendering
-out loud what is written or printed; and also of writing from dictation,
-writing out something printed, playing from a score, and so on.
-The use of this word in the ordinary circumstances of our life is of
-course extremely familiar to us. But the part the word plays in our life,
-and therewith the language-game in which we employ it, would be
-difficult to describe even in rough outline. A person, let us say an
-Englishman, has received at school or at home one of the kinds of
-education usual among us, and in the course of it has learned to read
-his native language. Later he reads books, letters, newspapers, and
-other things.
-Now what takes place when, say, he reads a newspaper?——His
-eye passes—as we say—along the printed words, he says them out
-loud—or only to himself; in particular he reads certain words by taking
-in their printed shapes as wholes; others when his eye has taken in
-the first syllables; others again he reads syllable by syllable, and an
-occasional one perhaps letter by letter.—We should also say that he
-had read a sentence if he spoke neither aloud nor to himself during
-the reading but was afterwards able to repeat the sentence word for
-word or nearly so.—He may attend to what he reads, or again—as we
-might put it—function as a mere reading-machine: I mean, read aloud
-and correctly without attending to what he is reading; perhaps with his
-attention on something quite different (so that he is unable to say what
-he has been reading if he is asked about it immediately afterwards).
-Now compare a beginner with this reader. The beginner reads the
-words by laboriously spelling them out.—Some however he guesses
-from the context, or perhaps he already partly knows the passage by
-heart. Then his teacher says that he is not really reading the words
-(and in certain cases that he is only pretending to read them).
-If we think of this sort of reading, the reading of a beginner, and
-ask ourselves what reading consists in, we shall be inclined to say: it is a
-special conscious activity of mind.
-We also say of the pupil: "Of course he alone knows if he is really
-reading or merely saying the words off by heart". (We have yet to
-discuss these propositions: "He alone knows .... ".)
-But I want to say: we have to admit that—as far as concerns
-uttering any one of the printed words—the same thing may take place
-in the consciousness of the pupil who is 'pretending' to read, as in
-that of the practised reader who is 'reading' it. The word "to read"
-is applied differently when we are speaking of the beginner and of the
-practised reader.——Now we should of course like to say: What goes
-on in that practised reader and in the beginner when they utter the
-word can't be the same. And if there is no difference in what they
-happen to be conscious of there must be one in the unconscious
-workings of their minds, or, again, in the brain.—So we should like
-to say: There are at all events two different mechanisms at work here.
-And what goes on in them must distinguish reading from not reading.
-—But these mechanisms are only hypotheses, models designed to
-explain, to sum up, what you observe.
-
- Consider the following case. Human beings or creatures of
-some other kind are used by us as reading-machines. They are trained
-for this purpose. The trainer says of some that they can already read,
-of others that they cannot yet do so. Take the case of a pupil who lias
-so far not taken part in the training: if he is shewn a written word
-he will sometimes produce some sort of sound, and here and there it
-happens 'accidentally' to be roughly right. A third person hears this
-pupil on such an occasion and says: "He is reading". But the teacher
-says: "No, he isn't reading; that was just an accident".—But let us
-suppose that this pupil continues to react correctly to further words
-that are put before him. After a while the teacher says: "Now he can
-read!"—But what of that first word? Is the teacher to say: "I was
-wrong, and he did read it"—or: "He only began really to read later
-on"?—When did he begin to read? Which was the first word that he
-read? This question makes no sense here. Unless, indeed, we give a
-definition: "The first word that a person 'reads' is the first word of the
-first series of 5 o words that he reads correctly" (or something of the sort).
-If on the other hand we use "reading" to stand for a certain
-experience of transition from marks to spoken sounds, then it certainly
-makes sense to speak of the first word that he really read. Pie can then
-say, e.g. "At this word for the first time I had the feeling: 'now I am
-reading'."
-Or again, in the different case of a reading machine which translated marks into sounds, perhaps as a pianola does, it would be possible
-to say: "The machine read only after such-and-such had happened to
-it—after such-and-such parts had been connected by wires; the first
-word that it read was . . . . " .
-But in the case of the living reading-machine "reading" meant
-reacting to written signs in such-and-such ways. This concept was
-therefore quite independent of that of a mental or other mechanism.—
-Nor can the teacher here say of the pupil: "Perhaps he was already
-reading when he said that word". For there is no doubt about what
-he did.—The change when the pupil began to read was a change in
-his behaviour, and it makes no sense here to speak of 'a first word in
-his new state'.
-
- But isn't that only because of our too slight acquaintance
-with what goes on in the brain and the nervous system? If we had
-a more accurate knowledge of these things we should see what connexions were established by the training, and then we should be able
-to say when we looked into his brain: "Now he has read this word,
-now the reading connexion has been set up".——And it presumably
-must be like that—for otherwise how could we be so sure that there
-was such a connexion? That it is so is presumably a priori—or is it
-only probable? And how probable is it? Now, ask yourself: what do
-you know about these things?——But if it is a priori, that means that
-it is a form of account which is very convincing to us.
-
- But when we think the matter over we are tempted to say:
-the one real criterion for anybody's reading is the conscious act of
-reading, the act of reading the sounds off from the letters. "A man
-surely knows whether he is reading or only pretending to read!"—
-Suppose A wants to make B believe he can read Cyrillic script. He
-learns a Russian sentence by heart and says it while looking at the
-printed words as if he were reading them. Here we shall certainly
-say that A knows he is not reading, and has a sense of just this while
-pretending to read. For there are of course many more or less characteristic sensations in reading a printed sentence; it is not difficult to
-call such sensations to mind: think of sensations of hesitating, of looking closer, of misreading, of words following on one another more or
-less smoothly, and so on. And equally there are characteristic sensations in reciting something one has learnt by heart. In our example
-A will have none of the sensations that are characteristic of reading,
-and will perhaps have a set of sensations characteristic of cheating.
-Try this experiment: say the numbers from i to 12. Now look at
-the dial of your watch and read them.—What was it that you called
-"reading" in the latter case? That is to say: what did you do, to make
-it into reading?
-
- But imagine the following case: We give someone who can
-read fluently a text that he never saw before. He reads it to us—but
-with the sensation of saying something he has learnt by heart (this
-might be the effect of some drug). Should we say in such a case that
-he was not really reading the passage? Should we here allow his
-sensations to count as the criterion for his reading or not reading?
-Or again: Suppose that a man who is under the influence of a
-certain drug is presented with a series of characters (which need not
-belong to any existing alphabet), fie utters words corresponding to
-the number of the characters, as if they were letters, and does so with
-all the outward signs, and with the sensations, of reading. (We have
-experiences like this in dreams; after waking up in such a case one says
-perhaps: "It seemed to me as if I were reading a script, though it was
-not writing at all.") In such a case some people would be inclined to
-say the man was reading those marks. Others, that he was not.—
-Suppose he has in this way read (or interpreted) a set of five marks as
-A B O V E—and now we shew him the same marks in the reverse
-order and he reads E VO B A; and in further tests he always retains
-the same interpretation of the marks: here we should certainly be
-inclined to say he was making up an alphabet for himself ad hoc and
-then reading accordingly.
-
- And remember too that there is a continuous series of transitional cases between that in which a person repeats from memory
-what he is supposed to be reading, and that in which he spells out every
-word without being helped at all by guessing from the context or
-knowing by heart.
-
- Let us trv the following definition: You are reading when
-you derive the reproduction from the original. And by "the original" I
-mean the text which you read or copy; the dictation from which you
-write; the score from which you play; etc. etc..—Now suppose we have,
-for example, taught someone the Cyrillic alphabet, and told him how
-to pronounce each letter. Next we put a passage before him and he
-reads it, pronouncing every letter as we have taught him. In this case
-we shall very likely say that he derives the sound of a word from
-the written pattern by the rule that we have given him. And this
-is also a clear case of reading. (We might say that we had taught him
-the 'rule of the alphabet'.)
-But why do we say that he has derived the spoken from the printed
-words? Do we know anything more than that we taught him how each
-letter should be pronounced, and that he then read the words out
-loud? Perhaps our reply will be: the pupil shews that he is using the
-rule we have given him to pass from the printed to the spoken words.—
-How this can be shewn becomes clearer if we change our example to
-one in which the pupil has to write out the text instead of reading it
-to us, has to make the transition from print to handwriting. For in
-this case we can give him the rule in the form of a table with printed
-letters in one column and cursive letters in the other. And he shews
-that he is deriving his script from the printed words by consulting the
-table.
-
- But suppose that when he did this he always wrote b for A,
-c for B, 6? for C, and so on, and a for Z?—Surely we should call this too
-a derivation by means of the table.—He is using it now, we might say,
-according to the second schema in §86 instead of the first.
-It would still be a perfectly good case of derivation according to the
-table, even if it were represented by a schema of arrows without
-any simple regularity.
-Suppose, however, that he does not stick to a single method of
-transcribing, but alters his method according to a simple rule: if he
-has once written n for Ay then he writes o for the next A, p for the next,
-and so on.—-But where is the dividing line between this procedure and
-a random one?
-But does this mean that the word "to derive" really has no meaning,
-since the meaning seems to disintegrate when we follow it up?
-
- In case (162) the meaning of the word "to derive" stood out
-clearly. But we told ourselves that this was only a quite special case
-of deriving; deriving in a quite special garb, which had to be stripped
-from it if we wanted to see the essence of deriving. So we stripped
-those particular coverings off; but then deriving itself disappeared.—
-In order to find the real artichoke, we divested it of its leaves. For
-certainly (162) was a special case of deriving; what is essential to
-deriving, however, was not hidden beneath the surface of this case, but
-his 'surface' was one case out of the family of cases of deriving.
-And in the same way we also use the word "to read" for a family
-of cases. And in different circumstances we apply different criteria for
-a person's reading.
- But surely—we should like to say—reading is a quite particular
-process 1 Read a page of print and you can see that something special
-is going on, something highly characteristic.——Well, what does go on
-when I read the page? I see printed words and I say words out loud.
-But, of course, that is not all, for I might see printed words and say
-words out loud and still not be reading. Even if the words which I say
-are those which, going by an existing alphabet, are supposed to be read
-off from the printed ones.—And if you say that reading is a particular
-experience, then it becomes quite unimportant whether or not you read
-according to some generally recognized alphabetical rule.—And what
-does the characteristic thing about the experience of reading consist
-in?—Here I should like to say: "The words that 1 utter come in a special
-way." That is, they do not come as they would if I were for example
-making them up.—They come of themselves.—But even that is not
-enough; for the sounds of words may occur to me w^hile I am looking at
-printed words, but that does not mean that I have read them.—In
-addition I might say here, neither do the spoken words occur to me
-as if, say, something reminded me of them. I should for example not
-wish to say: the printed word "nothing" always reminds me of the
-sound "nothing"—but the spoken words as it were slip in as one
-reads. And if I so much as look at a German printed word, there
-occurs a peculiar process, that of hearing the sound inwardly.
-
- I said that when one reads the spoken words come 'in a
-special way': but in what way? Isn't this a fiction? Let us look at
-individual letters and attend to the way the sound of the letter comes.
-Read the letter A. — Now, how did the sound come? — We have no
-idea what to say about it. —— Now write a small Roman a. — How
-did the movement of the hand come as you wrote? Differently from
-the way the sound came in the previous experiment? — All I know is,
-I looked at the printed letter and wrote the cursive letter. —— Now look
-at the mark ᘑ and let a sound occur to you as you do so; utter it.
-The sound 'U' occurred to me; but I could not say that there was any
-essential difference in the kind of way that sound came. The difference
-lay in the difference of situation. I had told myself beforehand that I
-was to let a sound occur to me; there was a certain tension present
-before the sound came. And I did not say 'U' automatically as I do
-when I look at the letter U. Further, that mark was not familiar to
-me in the way the letters of the alphabet are. I looked at it rather
-intently and with a certain interest in its shape; as I looked I thought
-of a reversed sigma.——Imagine having to use this mark regularly as
-a letter; so that you got used to uttering a particular sound at the sight
-of it, say the sound "sh". Can we say anything but that after a while
-this sound comes automatically when we look at the mark? That is
-to say: I no longer ask myself on seeing it "What sort of letter is that?"
-—nor, of course, do I tell myself "This mark makes me want to utter
-the sound 'sh' ", nor yet "This mark somehow reminds me of the
-sound 'sh' ".
-(Compare with this the idea that memory images are distinguished
-from other mental images by some special characteristic.)
-
- Now what is there in the proposition that reading is 'a quite
-particular process'? It presumably means that when we read one
-particular process takes place, which we recognize.—But suppose
-that I at one time read a sentence in print and at another write it in
-Morse code—is the mental process really the same?——On the other
-hand, however, there is certainly some uniformity in the experience
-of reading a page of print. For the process is a uniform one. And
-it is quite easy to understand that there is a difference between this
-process and one of, say, letting words occur to one at the sight of
-arbitrary marks.—For the mere look of a printed line is itself extremely
-characteristic—it presents, that is, a quite special appearance, the letters
-all roughly the same size, akin in shape too, and always recurring;
-most of the words constantly repeated and enormously familiar to us,
-like well-known faces.—Think of the uneasiness we feel when the
-spelling of a word is changed. (And of the still stronger feelings that
-questions about the spelling of words have aroused.) Of course, not
-all signs have impressed themselves on us so strongly. A sign in the
-algebra of logic for instance can be replaced by any other one without
-exciting a strong reaction in us.—
-Remember that the look of a word is familiar to us in the same kind
-of way as its sound.
-
- Again, our eye passes over printed lines differently from the
-way it passes over arbitrary pothooks and flourishes. (I am not
-speaking here of what can be established by observing the movement
-of the eyes of a reader.) The eye passes, one would like to say, with
-particular ease, without being held up; and yet it doesn't skid. And at the
-same time involuntary speech goes on in the imagination. That is how
-it is when I read German and other languages, printed or written,
-and in various styles.—But what in all this is essential to reading as
-such? Not any one feature that occurs in all cases of reading. (Compare
-reading ordinary print with reading words which are printed entirely
-in capital letters, as solutions of puzzles sometimes are. How different
-it is!—Or reading our script from right to left.)
-
- But when we read don't we feel the word-shapes somehow
-causing our utterance?——Read a sentence.—And now look along the
-symbols "&%#%$#@@" and say a sentence as you do so. Can't one feel that in the first case
-the utterance was connected with seeing the signs and in the second
-went on side by side with the seeing without any connexion?
-But why do you say that we felt a causal connexion? Causation is
-surely something established by experiments, by observing a regular
-concomitance of events for example. So how could I say that I felt
-something which is established by experiment? (It is indeed true
-that observation of regular concomitances is not the only way we
-establish causation.) One might rather say, I feel that the letters are
-the reason why I read such-and-such. For if someone asks me "Why
-do you read such-and-such?"—I justify my reading by the letters which
-are there.
-This justification, however, was something that I said, or thought:
-what does it mean to say that I feel it? I should like to say: when I
-read I feel a kind of influence of the letters working on me——but I
-feel no influence from that series of arbitrary flourishes on what I
-say.—Let us once more compare an individual letter with such a
-flourish. Should I also say I feel the influence of "i" when I read it?
-It does of course make a difference whether I say "i" when I see "i"
-or when I see "§". The difference is, for instance, that when I see the
-letter it is automatic for me to hear the sound "i" inwardly, it happens
-even against my will; and I pronounce the letter more effortlessly
-when I read it than when I am looking at "§". That is to say: this is
-how it is when I make the experiment; but of course it is not so if I
-happen to be looking at the mark "§" and at the same time pronounce
-a word in which the sound "i" occurs.
-
- It would never have occurred to us to think that we/<?// the
-influence of the letters on us when reading, if we had not compared the
-case of letters with that of arbitrary marks. And here we are indeed
-noticing a difference. And we interpret it as the difference between being
-influenced and not being influenced.
-In particular, this interpretation appeals to us especially when we
-make a point of reading slowly—perhaps in order to see what does
-happen when we read. When we, so to speak, quite intentionally let
-ourselves be guided by the letters. But this 'letting myself be guided' in
-turn only consists in my looking carefully at the letters—and perhaps
-excluding certain other thoughts.
-We imagine that a feeling enables us to perceive as it were a connecting mechanism between the look of the word and the sound that
-we utter. For when I speak of the experiences of being influenced,
-of causal connexion, of being guided, that is really meant to imply that
-I as it were feel the movement of the lever which connects seeing the
-letters with speaking.
-
- I might have used other words to hit off the experience I have
-when I read a word. Thus I might say that the written word intimates
-the sound to me.—Or again, that when one reads, letter and sound
-form a unity—as it were an alloy. (In the same way e.g. the faces of
-famous men and the sound of their names are fused together. This
-name strikes me as the only right one for this face.) When I feel this
-unity, I might say, I see or hear the sound in the written word.—
-But now just read a few sentences in print as you usually do when
-you are not thinking about the concept of reading; and ask yourself
-whether you had such experiences of unity, of being influenced and
-the rest, as you read.—Don't say you had them unconsciously! Nor
-should we be misled by the picture which suggests that these phenomena came in sight 'on closer inspection'. If I am supposed to
-describe how an object looks from far off, I don't make the description
-more accurate by saying what can be noticed about the object on
-closer inspection.
-
-
- Let us consider the experience of being guided, and ask
-ourselves: what does this experience consist in when for instance our
-course is guided?—Imagine the following cases:
-You are in a playing field with your eyes bandaged, and someone
-leads you by the hand, sometimes left, sometimes right; you have
-constantly to be ready for the tug of his hand, and must also take care
-not to stumble when he gives an unexpected tug.
-Or again: someone leads you by the hand where you are unwilling
-to go, by force.
-Or: you are guided by a partner in a dance; you make yourself as
-receptive as possible, in order to guess his intention and obey the
-slightest pressure.
-Or: someone takes you for a walk; you are having a conversation;
-you go wherever he does.
-Or: you walk along a field-track, simply following it.
-All these situations are similar to one another; but what is common
-to all the experiences?
-
-
- "But being guided is surely a particular experience!"—The
-answer to this is: you are now thinking of a particular experience of
-being guided.
-If I want to realize the experience of the person in one of the earlier
-examples, whose writing is guided by the printed text and the table,
-I imagine 'conscientious' looking-up, and so on. As I do this I assume
-a particular expression of face (say that of a conscientious bookkeeper). Carefulness is a most essential part of this picture; in another
-the exclusion of every volition of one's own would be essential. (But
-take something normal people do quite unconcernedly and imagine
-someone accompanying it with the expression—and why not the
-feelings?—of great carefulness.—Does that mean he is careful?
-Imagine a servant dropping the tea-tray and everything on it with all
-the outward signs of carefulness.) If I imagine such a particular
-experience, it seems to me to be the experience of being guided (or of
-reading). But now I ask myself: what are you doing?—You are
-looking at every letter, you are making this face, you are writing the
-letters with deliberation (and so on).—So that is the experience of
-being guided?——Here I should like to say: "No, it isn't that; it is
-something more inward, more essential."—It is as if at first all these
-more or less inessential processes were shrouded in a particular
-atmosphere, which dissipates when I look closely at them.
-
- Ask yourself how you draw a line parallel to a given one 'with
-deliberation'—and another time, with deliberation, one at an angle
-to it. What is the experience of deliberation? Here a particular look,
-a gesture, at once occur to you—and then you would like to say:
-"And it just is a particular inner experience". (And that is, of course,
-to add nothing).
-(This is connected with the problem of the nature of intention, of
-willing.)
-
- Make some arbitrary doodle on a bit of paper.——And now
-make a copy next to it, let yourself be guided by it.——I should like
-to say: "Sure enough, I was guided here. But as for what was characteristic in what happened—if 1 say what happened, I no longer find it
-characteristic."
-But now notice this: while I am being guided everything is quite
-simple, I notice nothing special; but afterwards, when I ask myself
-what it was that happened, it seems to have been something indescribable. Afterwards no description satisfies me. It's as if I couldn't believe
-that I merely looked, made such-and-such a face, and drew a line.—
-But don't I remember anything else? No; and yet I feel as if there must
-have been something else; in particular when I say "guidance", "influence", and other such words to myself. "For surely," I tell myself,
-"I was being guided."—Only then does the idea of that ethereal,
-intangible influence arise.
-
- When I look back on the experience I have the feeling that
-what is essential about it is an 'experience of being influenced', of a
-connexion—as opposed to any mere simultaneity of phenomena: but
-at the same time I should not be willing to call any experienced phenomenon the "experience of being influenced". (This contains the
-germ of the idea that the will is not a phenomenon.") I should like to say
-that I had experienced the 'because', and yet I do not want to call
-any phenomenon the "experience of the because".
-
-
- I should like to say: "I experience the because". Not because
-I remember such an experience, but because when I reflect on what I
-experience in such a case I look at it through the medium of the concept
-'because' (or 'influence' or 'cause' or 'connexion').—For of course it
-is correct to say I drew the line under the influence of the original:
-this, however, does not consist simply in my feelings as I drew the
-line—under certain circumstances, it may consist in my drawing it
-parallel to the other—even though this in turn is not in general essential
-to being guided.—
-
- We also say: "You can see that I am guided by it"—and
-what do you see, if you see this?
-When I say to myself: "But I am guided"—I make perhaps a movement with my hand, which expresses guiding.—Make such a movement of the hand as if you were guiding someone along, and then ask
-yourself what the guiding character of this movement consisted in. For
-you were not guiding anyone. But you still want to call the movement
-one of 'guiding'. This movement and feeling did not contain the
-essence of guiding, but still this word forces itself upon you. It is just
-a single form of guiding which forces the expression on us.
-
- Let us return to our case (151). It is clear that we should not
-say B had the right to say the words "Now I know how to go on",
-just because he thought of the formula—unless experience shewed
-that there was a connexion between thinking of the formula—saying it,
-writing it down—and actually continuing the series. And obviously
-such a connexion does exist.—And now one might think that the
-sentence "I can go on" meant "I have an experience which I know
-empirically to lead to the continuation of the series." But does B mean
-that when he says he can go on? Does that sentence come to his mind,
-or is he ready to produce it in explanation of what he meant?
-No. The words "Now I know how to go on" were correctly used
-when he thought of the formula: that is, given such circumstances as
-that he had learnt algebra, had used such formulae before.—But that
-does not mean that his statement is only short for a description of all
-the circumstances which constitute the scene for our language-game.—
-Think how we learn to use the expressions "Now I know how to go
-on", "Now I can go on" and others; in what family of languagegames we learn their use.
-We can also imagine the case where nothing at all occurred in B's
-mind except that he suddenly said "Now I know how to go on"—
-perhaps with a feeling of relief; and that he did in fact go on working
-out the series without using the formula. And in this case too we
-should say—in certain circumstances—that he did know how to go on.
-
- This is how these words are used. It would be quite misleading,
-in this last case, for instance, to call the words a "description of a
-mental state".—One might rather call them a "signal"; and we judge
-whether it was rightly employed by what he goes on to do.
-
- In order to understand this, we need also to consider the
-following: suppose B says he knows how to go on—but when he
-wants to go on he hesitates and can't do it: are we to say that he was
-wrong when he said he could go on, or rather that he was able to go on
-then, only now is not?—Clearly we shall say different things in different
-cases. (Consider both kinds of case.)
-
+ "B understands the principle of the series" surely doesn't mean simply: the formula "a_n — . . . . " occurs to B.
+ For it is perfectly imaginable that the formula should occur to him and that he should nevertheless not understand.
+ "He understands" must have more in it than: the formula occurs to him.
+ And equally, more than any of those more or less characteristic accompaniments or manifestations of understanding.
+ We are trying to get hold of the mental process of understanding which seems to be hidden behind those coarser and therefore more readily visible accompaniments.
+ But we do not succeed; or, rather, it does not get as far as a real attempt.
+ For even supposing I had found something that happened in all those cases of understanding,— why should it be the understanding?
+ And how can the process of understanding have been hidden, when I said "Now I understand" because I understood?!
+ And if I say it is hidden—then how do I know what I have to look for?
+ I am in a muddle.
+ But wait—if "Now I understand the principle" does not mean the same as "The formula . . . . occurs to me" (or "I say the formula", "I write it down", etc.) —does it follow from this that I employ the sentence "Now I understand . . . . .  " or "Now I can go on" as a description of a process occurring behind or side by side with that of saying the formula?
+ If there has to be anything 'behind the utterance of the formula' it is particular circumstances', which justify me in saying I can go on—when the formula occurs to me.
+ Try not to think of understanding as a 'mental process' at all.
+ — For that is the expression which confuses you.
+ But ask yourself: in what sort of case, in what kind of circumstances, do we say, "Now I know how to go on," when, that is, the formula has occurred to me?
+ — In the sense in which there are processes (including mental processes) which are characteristic of understanding, understanding is not a mental process.
+ (A pain's growing more and less; the hearing of a tune or a sentence: these are mental processes.)
+ Thus what I wanted to say was: when he suddenly knew how to go on, when he understood the principle, then possibly he had a special experience—and if he is asked: "What was it?  What took place when you suddenly grasped the principle?" perhaps he will describe it much as we described it above——but for us it is the circumstances under which he had such an experience that justify him in saying in such a case that he understands, that he knows how to go on.
+ This will become clearer if we interpolate the consideration of another word, namely "reading".
+ First I need to remark that I am not counting the understanding of what is read as part of 'reading' for purposes of this investigation: reading is here the activity of rendering out loud what is written or printed; and also of writing from dictation, writing out something printed, playing from a score, and so on.
+ The use of this word in the ordinary circumstances of our life is of course extremely familiar to us.
+ But the part the word plays in our life, and therewith the language-game in which we employ it, would be difficult to describe even in rough outline.
+ A person, let us say an Englishman, has received at school or at home one of the kinds of education usual among us, and in the course of it has learned to read his native language.
+ Later he reads books, letters, newspapers, and other things.
+ Now what takes place when, say, he reads a newspaper?
+ ——His eye passes—as we say—along the printed words, he says them out loud—or only to himself; in particular he reads certain words by taking in their printed shapes as wholes; others when his eye has taken in the first syllables; others again he reads syllable by syllable, and an occasional one perhaps letter by letter.
+ —We should also say that he had read a sentence if he spoke neither aloud nor to himself during the reading but was afterwards able to repeat the sentence word for word or nearly so.
+ —He may attend to what he reads, or again—as we might put it—function as a mere reading-machine: I mean, read aloud and correctly without attending to what he is reading; perhaps with his attention on something quite different (so that he is unable to say what he has been reading if he is asked about it immediately afterwards).
+ Now compare a beginner with this reader.
+ The beginner reads the words by laboriously spelling them out.
+ —Some however he guesses from the context, or perhaps he already partly knows the passage by heart.
+ Then his teacher says that he is not really reading the words (and in certain cases that he is only pretending to read them).
+ If we think of this sort of reading, the reading of a beginner, and ask ourselves what reading consists in, we shall be inclined to say: it is a special conscious activity of mind.
+ We also say of the pupil: "Of course he alone knows if he is really reading or merely saying the words off by heart".
+ (We have yet to discuss these propositions: "He alone knows .  ...  ".)
+ But I want to say: we have to admit that—as far as concerns uttering any one of the printed words—the same thing may take place in the consciousness of the pupil who is 'pretending' to read, as in that of the practised reader who is 'reading' it.
+ The word "to read" is applied differently when we are speaking of the beginner and of the practised reader.
+ ——Now we should of course like to say: What goes on in that practised reader and in the beginner when they utter the word can't be the same.
+ And if there is no difference in what they happen to be conscious of there must be one in the unconscious workings of their minds, or, again, in the brain.
+ —So we should like to say: There are at all events two different mechanisms at work here.
+ And what goes on in them must distinguish reading from not reading.
+ —But these mechanisms are only hypotheses, models designed to explain, to sum up, what you observe.
+ Consider the following case.
+ Human beings or creatures of some other kind are used by us as reading-machines.
+ They are trained for this purpose.
+ The trainer says of some that they can already read, of others that they cannot yet do so.
+ Take the case of a pupil who lias so far not taken part in the training: if he is shewn a written word he will sometimes produce some sort of sound, and here and there it happens 'accidentally' to be roughly right.
+ A third person hears this pupil on such an occasion and says: "He is reading".
+ But the teacher says: "No, he isn't reading; that was just an accident".
+ —But let us suppose that this pupil continues to react correctly to further words that are put before him.
+ After a while the teacher says: "Now he can read!"
+ —But what of that first word?
+ Is the teacher to say: "I was wrong, and he did read it"—or: "He only began really to read later on"?
+ —When did he begin to read?
+ Which was the first word that he read?
+ This question makes no sense here.
+ Unless, indeed, we give a definition: "The first word that a person 'reads' is the first word of the first series of 5 o words that he reads correctly" (or something of the sort).
+ If on the other hand we use "reading" to stand for a certain experience of transition from marks to spoken sounds, then it certainly makes sense to speak of the first word that he really read.
+ Pie can then say, e.g.  "At this word for the first time I had the feeling: 'now I am reading'."
+ Or again, in the different case of a reading machine which translated marks into sounds, perhaps as a pianola does, it would be possible to say: "The machine read only after such-and-such had happened to it—after such-and-such parts had been connected by wires; the first word that it read was .  . .  . ".
+ But in the case of the living reading-machine "reading" meant reacting to written signs in such-and-such ways.
+ This concept was therefore quite independent of that of a mental or other mechanism.
+ — Nor can the teacher here say of the pupil: "Perhaps he was already reading when he said that word".
+ For there is no doubt about what he did.
+ —The change when the pupil began to read was a change in his behaviour, and it makes no sense here to speak of 'a first word in his new state'.
+ But isn't that only because of our too slight acquaintance with what goes on in the brain and the nervous system?
+ If we had a more accurate knowledge of these things we should see what connexions were established by the training, and then we should be able to say when we looked into his brain: "Now he has read this word, now the reading connexion has been set up".
+ ——And it presumably must be like that—for otherwise how could we be so sure that there was such a connexion?
+ That it is so is presumably a priori—or is it only probable?
+ And how probable is it?
+ Now, ask yourself: what do you know about these things?
+ ——But if it is a priori, that means that it is a form of account which is very convincing to us.
+ But when we think the matter over we are tempted to say: the one real criterion for anybody's reading is the conscious act of reading, the act of reading the sounds off from the letters.
+ "A man surely knows whether he is reading or only pretending to read!"
+ — Suppose A wants to make B believe he can read Cyrillic script.
+ He learns a Russian sentence by heart and says it while looking at the printed words as if he were reading them.
+ Here we shall certainly say that A knows he is not reading, and has a sense of just this while pretending to read.
+ For there are of course many more or less characteristic sensations in reading a printed sentence; it is not difficult to call such sensations to mind: think of sensations of hesitating, of looking closer, of misreading, of words following on one another more or less smoothly, and so on.
+ And equally there are characteristic sensations in reciting something one has learnt by heart.
+ In our example A will have none of the sensations that are characteristic of reading, and will perhaps have a set of sensations characteristic of cheating.
+ Try this experiment: say the numbers from i to 12.
+ Now look at the dial of your watch and read them.
+ —What was it that you called "reading" in the latter case?
+ That is to say: what did you do, to make it into reading?
+ But imagine the following case: We give someone who can read fluently a text that he never saw before.
+ He reads it to us—but with the sensation of saying something he has learnt by heart (this might be the effect of some drug).
+ Should we say in such a case that he was not really reading the passage?
+ Should we here allow his sensations to count as the criterion for his reading or not reading?
+ Or again: Suppose that a man who is under the influence of a certain drug is presented with a series of characters (which need not belong to any existing alphabet), fie utters words corresponding to the number of the characters, as if they were letters, and does so with all the outward signs, and with the sensations, of reading.
+ (We have experiences like this in dreams; after waking up in such a case one says perhaps: "It seemed to me as if I were reading a script, though it was not writing at all.")
+ In such a case some people would be inclined to say the man was reading those marks.
+ Others, that he was not.
+ — Suppose he has in this way read (or interpreted) a set of five marks as A B O V E—and now we shew him the same marks in the reverse order and he reads E VO B A; and in further tests he always retains the same interpretation of the marks: here we should certainly be inclined to say he was making up an alphabet for himself ad hoc and then reading accordingly.
+ And remember too that there is a continuous series of transitional cases between that in which a person repeats from memory what he is supposed to be reading, and that in which he spells out every word without being helped at all by guessing from the context or knowing by heart.
+ Let us try the following definition: You are reading when you derive the reproduction from the original.
+ And by "the original" I mean the text which you read or copy; the dictation from which you write; the score from which you play; etc. etc. .
+ —Now suppose we have, for example, taught someone the Cyrillic alphabet, and told him how to pronounce each letter.
+ Next we put a passage before him and he reads it, pronouncing every letter as we have taught him.
+ In this case we shall very likely say that he derives the sound of a word from the written pattern by the rule that we have given him.
+ And this is also a clear case of reading.
+ (We might say that we had taught him the 'rule of the alphabet'.)
+ But why do we say that he has derived the spoken from the printed words?
+ Do we know anything more than that we taught him how each letter should be pronounced, and that he then read the words out loud?
+ Perhaps our reply will be: the pupil shews that he is using the rule we have given him to pass from the printed to the spoken words.
+ — How this can be shewn becomes clearer if we change our example to one in which the pupil has to write out the text instead of reading it to us, has to make the transition from print to handwriting.
+ For in this case we can give him the rule in the form of a table with printed letters in one column and cursive letters in the other.
+ And he shews that he is deriving his script from the printed words by consulting the table.
+ But suppose that when he did this he always wrote b for A, c for B, 6? for C, and so on, and a for Z?
+ —Surely we should call this too a derivation by means of the table.
+ —He is using it now, we might say, according to the second schema in §86 instead of the first.
+ It would still be a perfectly good case of derivation according to the table, even if it were represented by a schema of arrows without any simple regularity.
+ Suppose, however, that he does not stick to a single method of transcribing, but alters his method according to a simple rule: if he has once written n for Ay then he writes o for the next A, p for the next, and so on.
+ -But where is the dividing line between this procedure and a random one?
+ But does this mean that the word "to derive" really has no meaning, since the meaning seems to disintegrate when we follow it up?
+ In case (162) the meaning of the word "to derive" stood out clearly.
+ But we told ourselves that this was only a quite special case of deriving; deriving in a quite special garb, which had to be stripped from it if we wanted to see the essence of deriving.
+ So we stripped those particular coverings off; but then deriving itself disappeared.
+ — In order to find the real artichoke, we divested it of its leaves.
+ For certainly (162) was a special case of deriving; what is essential to deriving, however, was not hidden beneath the surface of this case, but his 'surface' was one case out of the family of cases of deriving.
+ And in the same way we also use the word "to read" for a family of cases.
+ And in different circumstances we apply different criteria for a person's reading.
+ But surely—we should like to say—reading is a quite particular process 1 Read a page of print and you can see that something special is going on, something highly characteristic.
+ ——Well, what does go on when I read the page?
+ I see printed words and I say words out loud.
+ But, of course, that is not all, for I might see printed words and say words out loud and still not be reading.
+ Even if the words which I say are those which, going by an existing alphabet, are supposed to be read off from the printed ones.
+ —And if you say that reading is a particular experience, then it becomes quite unimportant whether or not you read according to some generally recognized alphabetical rule.
+ —And what does the characteristic thing about the experience of reading consist in?
+ —Here I should like to say: "The words that 1 utter come in a special way."
+ That is, they do not come as they would if I were for example making them up.
+ —They come of themselves.
+ —But even that is not enough; for the sounds of words may occur to me w^hile I am looking at printed words, but that does not mean that I have read them.
+ —In addition I might say here, neither do the spoken words occur to me as if, say, something reminded me of them.
+ I should for example not wish to say: the printed word "nothing" always reminds me of the sound "nothing"—but the spoken words as it were slip in as one reads.
+ And if I so much as look at a German printed word, there occurs a peculiar process, that of hearing the sound inwardly.
+ I said that when one reads the spoken words come 'in a special way': but in what way?
+ Isn't this a fiction?
+ Let us look at individual letters and attend to the way the sound of the letter comes.
+ Read the letter A.
+ — Now, how did the sound come?
+ — We have no idea what to say about it.
+ —— Now write a small Roman a.
+ — How did the movement of the hand come as you wrote?
+ Differently from the way the sound came in the previous experiment?
+ — All I know is, I looked at the printed letter and wrote the cursive letter.
+ —— Now look at the mark ᘑ and let a sound occur to you as you do so; utter it.
+ The sound 'U' occurred to me; but I could not say that there was any essential difference in the kind of way that sound came.
+ The difference lay in the difference of situation.
+ I had told myself beforehand that I was to let a sound occur to me; there was a certain tension present before the sound came.
+ And I did not say 'U' automatically as I do when I look at the letter U.
+ Further, that mark was not familiar to me in the way the letters of the alphabet are.
+ I looked at it rather intently and with a certain interest in its shape; as I looked I thought of a reversed sigma.
+ ——Imagine having to use this mark regularly as a letter; so that you got used to uttering a particular sound at the sight of it, say the sound "sh".
+ Can we say anything but that after a while this sound comes automatically when we look at the mark?
+ That is to say: I no longer ask myself on seeing it "What sort of letter is that?" —nor, of course, do I tell myself "This mark makes me want to utter the sound 'sh' ", nor yet "This mark somehow reminds me of the sound 'sh' ".
+ (Compare with this the idea that memory images are distinguished from other mental images by some special characteristic.)
+ Now what is there in the proposition that reading is 'a quite particular process'?
+ It presumably means that when we read one particular process takes place, which we recognize.
+ —But suppose that I at one time read a sentence in print and at another write it in Morse code—is the mental process really the same?
+ ——On the other hand, however, there is certainly some uniformity in the experience of reading a page of print.
+ For the process is a uniform one.
+ And it is quite easy to understand that there is a difference between this process and one of, say, letting words occur to one at the sight of arbitrary marks.
+ —For the mere look of a printed line is itself extremely characteristic—it presents, that is, a quite special appearance, the letters all roughly the same size, akin in shape too, and always recurring; most of the words constantly repeated and enormously familiar to us, like well-known faces.
+ —Think of the uneasiness we feel when the spelling of a word is changed.
+ (And of the still stronger feelings that questions about the spelling of words have aroused.)
+ Of course, not all signs have impressed themselves on us so strongly.
+ A sign in the algebra of logic for instance can be replaced by any other one without exciting a strong reaction in us.
+ — Remember that the look of a word is familiar to us in the same kind of way as its sound.
+ Again, our eye passes over printed lines differently from the way it passes over arbitrary pothooks and flourishes.
+ (I am not speaking here of what can be established by observing the movement of the eyes of a reader.)
+ The eye passes, one would like to say, with particular ease, without being held up; and yet it doesn't skid.
+ And at the same time involuntary speech goes on in the imagination.
+ That is how it is when I read German and other languages, printed or written, and in various styles.
+ —But what in all this is essential to reading as such?
+ Not any one feature that occurs in all cases of reading.
+ (Compare reading ordinary print with reading words which are printed entirely in capital letters, as solutions of puzzles sometimes are.  How different it is!  —Or reading our script from right to left.)
+ But when we read don't we feel the word-shapes somehow causing our utterance?
+ ——Read a sentence.
+ —And now look along the symbols "&%#%$#@@" and say a sentence as you do so.
+ Can't one feel that in the first case the utterance was connected with seeing the signs and in the second went on side by side with the seeing without any connexion?
+ But why do you say that we felt a causal connexion?
+ Causation is surely something established by experiments, by observing a regular concomitance of events for example.
+ So how could I say that I felt something which is established by experiment?
+ (It is indeed true that observation of regular concomitances is not the only way we establish causation.)
+ One might rather say, I feel that the letters are the reason why I read such-and-such.
+ For if someone asks me "Why do you read such-and-such?"
+ —I justify my reading by the letters which are there.
+ This justification, however, was something that I said, or thought: what does it mean to say that I feel it?
+ I should like to say: when I read I feel a kind of influence of the letters working on me——but I feel no influence from that series of arbitrary flourishes on what I say.
+ —Let us once more compare an individual letter with such a flourish.
+ Should I also say I feel the influence of "i" when I read it?
+ It does of course make a difference whether I say "i" when I see "i" or when I see "§".
+ The difference is, for instance, that when I see the letter it is automatic for me to hear the sound "i" inwardly, it happens even against my will; and I pronounce the letter more effortlessly when I read it than when I am looking at "§".
+ That is to say: this is how it is when I make the experiment; but of course it is not so if I happen to be looking at the mark "§" and at the same time pronounce a word in which the sound "i" occurs.
+ It would never have occurred to us to think that we felt the influence of the letters on us when reading, if we had not compared the case of letters with that of arbitrary marks.
+ And here we are indeed noticing a difference.
+ And we interpret it as the difference between being influenced and not being influenced.
+ In particular, this interpretation appeals to us especially when we make a point of reading slowly—perhaps in order to see what does happen when we read.
+ When we, so to speak, quite intentionally let ourselves be guided by the letters.
+ But this 'letting myself be guided' in turn only consists in my looking carefully at the letters—and perhaps excluding certain other thoughts.
+ We imagine that a feeling enables us to perceive as it were a connecting mechanism between the look of the word and the sound that we utter.
+ For when I speak of the experiences of being influenced, of causal connexion, of being guided, that is really meant to imply that I as it were feel the movement of the lever which connects seeing the letters with speaking.
+ I might have used other words to hit off the experience I have when I read a word.
+ Thus I might say that the written word intimates the sound to me.
+ —Or again, that when one reads, letter and sound form a unity—as it were an alloy.
+ (In the same way e.g. the faces of famous men and the sound of their names are fused together. This name strikes me as the only right one for this face.)
+ When I feel this unity, I might say, I see or hear the sound in the written word.
+ — But now just read a few sentences in print as you usually do when you are not thinking about the concept of reading; and ask yourself whether you had such experiences of unity, of being influenced and the rest, as you read.
+ —Don't say you had them unconsciously!
+ Nor should we be misled by the picture which suggests that these phenomena came in sight 'on closer inspection'.
+ If I am supposed to describe how an object looks from far off, I don't make the description more accurate by saying what can be noticed about the object on closer inspection.
+ Let us consider the experience of being guided, and ask ourselves: what does this experience consist in when for instance our course is guided?
+ —Imagine the following cases: You are in a playing field with your eyes bandaged, and someone leads you by the hand, sometimes left, sometimes right; you have constantly to be ready for the tug of his hand, and must also take care not to stumble when he gives an unexpected tug.
+ Or again: someone leads you by the hand where you are unwilling to go, by force.
+ Or: you are guided by a partner in a dance; you make yourself as receptive as possible, in order to guess his intention and obey the slightest pressure.
+ Or: someone takes you for a walk; you are having a conversation; you go wherever he does.
+ Or: you walk along a field-track, simply following it.
+ All these situations are similar to one another; but what is common to all the experiences?
+ "But being guided is surely a particular experience!"
+ —The answer to this is: you are now thinking of a particular experience of being guided.
+ If I want to realize the experience of the person in one of the earlier examples, whose writing is guided by the printed text and the table, I imagine 'conscientious' looking-up, and so on.
+ As I do this I assume a particular expression of face (say that of a conscientious bookkeeper).
+ Carefulness is a most essential part of this picture; in another the exclusion of every volition of one's own would be essential.
+ (But take something normal people do quite unconcernedly and imagine someone accompanying it with the expression—and why not the feelings? —of great carefulness. —Does that mean he is careful?  Imagine a servant dropping the tea-tray and everything on it with all the outward signs of carefulness.)
+ If I imagine such a particular experience, it seems to me to be the experience of being guided (or of reading).
+ But now I ask myself: what are you doing?
+ —You are looking at every letter, you are making this face, you are writing the letters with deliberation (and so on).
+ —So that is the experience of being guided?
+ ——Here I should like to say: "No, it isn't that; it is something more inward, more essential."
+ —It is as if at first all these more or less inessential processes were shrouded in a particular atmosphere, which dissipates when I look closely at them.
+ Ask yourself how you draw a line parallel to a given one 'with deliberation'—and another time, with deliberation, one at an angle to it.
+ What is the experience of deliberation?
+ Here a particular look, a gesture, at once occur to you—and then you would like to say: "And it just is a particular inner experience".
+ (And that is, of course, to add nothing).
+ (This is connected with the problem of the nature of intention, of willing.)
+ Make some arbitrary doodle on a bit of paper.
+ ——And now make a copy next to it, let yourself be guided by it.
+ ——I should like to say: "Sure enough, I was guided here.  But as for what was characteristic in what happened—if I say what happened, I no longer find it characteristic."
+ But now notice this: while I am being guided everything is quite simple, I notice nothing special; but afterwards, when I ask myself what it was that happened, it seems to have been something indescribable.
+ Afterwards no description satisfies me.
+ It's as if I couldn't believe that I merely looked, made such-and-such a face, and drew a line.
+ — But don't I remember anything else?
+ No; and yet I feel as if there must have been something else; in particular when I say "guidance", "influence", and other such words to myself.
+ "For surely," I tell myself, "I was being guided."
+ —Only then does the idea of that ethereal, intangible influence arise.
+ When I look back on the experience I have the feeling that what is essential about it is an 'experience of being influenced', of a connexion—as opposed to any mere simultaneity of phenomena: but at the same time I should not be willing to call any experienced phenomenon the "experience of being influenced".
+ (This contains the germ of the idea that the will is not a phenomenon.)
+ I should like to say that I had experienced the 'because', and yet I do not want to call any phenomenon the "experience of the because".
+ I should like to say: "I experience the because".
+ Not because I remember such an experience, but because when I reflect on what I experience in such a case I look at it through the medium of the concept 'because' (or 'influence' or 'cause' or 'connexion').
+ —For of course it is correct to say I drew the line under the influence of the original: this, however, does not consist simply in my feelings as I drew the line—under certain circumstances, it may consist in my drawing it parallel to the other—even though this in turn is not in general essential to being guided.
+ We also say: "You can see that I am guided by it"—and what do you see, if you see this?
+ When I say to myself: "But I am guided"—I make perhaps a movement with my hand, which expresses guiding.
+ —Make such a movement of the hand as if you were guiding someone along, and then ask yourself what the guiding character of this movement consisted in.
+ For you were not guiding anyone.
+ But you still want to call the movement one of 'guiding'.
+ This movement and feeling did not contain the essence of guiding, but still this word forces itself upon you.
+ It is just a single form of guiding which forces the expression on us.
+ Let us return to our case (151).
+ It is clear that we should not say B had the right to say the words "Now I know how to go on", just because he thought of the formula—unless experience shewed that there was a connexion between thinking of the formula—saying it, writing it down—and actually continuing the series.
+ And obviously such a connexion does exist.
+ —And now one might think that the sentence "I can go on" meant "I have an experience which I know empirically to lead to the continuation of the series."
+ But does B mean that when he says he can go on?
+ Does that sentence come to his mind, or is he ready to produce it in explanation of what he meant?
+ No.
+ The words "Now I know how to go on" were correctly used when he thought of the formula: that is, given such circumstances as that he had learnt algebra, had used such formulae before.
+ —But that does not mean that his statement is only short for a description of all the circumstances which constitute the scene for our language-game.
+ — Think how we learn to use the expressions "Now I know how to go on", "Now I can go on" and others; in what family of languagegames we learn their use.
+ We can also imagine the case where nothing at all occurred in B's mind except that he suddenly said "Now I know how to go on"— perhaps with a feeling of relief; and that he did in fact go on working out the series without using the formula.
+ And in this case too we should say—in certain circumstances—that he did know how to go on.
+ This is how these words are used.
+ It would be quite misleading, in this last case, for instance, to call the words a "description of a mental state".
+ —One might rather call them a "signal"; and we judge whether it was rightly employed by what he goes on to do.
+ In order to understand this, we need also to consider the following: suppose B says he knows how to go on—but when he wants to go on he hesitates and can't do it: are we to say that he was wrong when he said he could go on, or rather that he was able to go on then, only now is not?
+ —Clearly we shall say different things in different cases.
+ (Consider both kinds of case.)
  The grammar of "to fit", "to be able", and "to understand".
-(Exercises: (i) When is a cylinder C said to fit into a hollow cylinder H?
-Only while C is stuck into H? (2) Sometimes we say that C ceased to
-fit into H at such-and-such a time. What criteria are used in such a
-case for its having happened at that time? (3) What does one regard as
-criteria for a body's having changed its weight at a particular time if it
-was not actually on the balance at that time? (4) Yesterday I knew the
-poem by heart; today I no longer know it. In what kind of case does it
-make sense to ask: "When did I stop knowing it?" (5) Someone asks
-me "Can you lift this weight?" I answer "Yes". Now he says "Do
-it!"—and I can't. In what kind of circumstances would it count as a
-justification to say "When I answered 'yes' I could do it, only now I
-can't"?
-The criteria which we accept for 'fitting', 'being able to', 'understanding', are much more complicated than might appear at first
-sight. That is, the game with these words, their employment in the
-linguistic intercourse that is carried on by their means, is more
-involved—the role of these words in our language other—than we are
-tempted to think.
-(This role is what we need to understand in order to resolve
-philosophical paradoxes. And hence definitions usually fail to
-resolve them; and so, a fortiori does the assertion that a word is
-'indefinable'.)
-
-
- But did "Now I can go on" in case (151) mean the same as
-"Now the formula has occurred to me" or something different?
-We may say that, in those circumstances, the two sentences have the
-same sense, achieve the same thing. But also that in general these two
-sentences do not have the same sense. We do say: "Now I can go on,
-I mean I know the formula", as we say "I can walk, I mean I have
-time"; but also "I can walk, I mean I am already strong enough";
-or: "I can walk, as far as the state of my legs is concerned", that is,
-when we are contrasting this condition for walking with others. But
-here we must be on our guard against thinking that there is some
-totality of conditions corresponding to the nature of each case (e.g.
-for a person's walking) so that, as it were, he could not but walk if
-they were all fulfilled.
-
- I want to remember a tune and it escapes me; suddenly I say
-"Now I know it" and I sing it. What was it like to suddenly know it?
-Surely it can't have occurred to me in its entirety in that moment'!—
-Perhaps you will say: "It's a particular feeling, as if it were there"—
-but is it there? Suppose I now begin to sing it and get stuck?——
-But may I not have been certain at that moment that I knew it? So in
-some sense or other it was there after all!——But in what sense?
-You would say that the tune was there, if, say, someone sang it through,
-or heard it mentally from beginning to end. I am not, of course, denying
-that the statement that the tune is there can also be given a quite different meaning—for example, that I have a bit of paper on which it is
-written.—And what does his being 'certain', his knowing it, consist in?
-—Of course we can say: if someone says with conviction that now he
-knows the tune, then it is (somehow) present to his mind in its entirety
-at that moment——and this is a definition of the expression "the tune is
-present to his mind in its entirety".
-
- Let us return to our example (143). Now—judged by the
-usual criteria—the pupil has mastered the series of natural numbers.
-Next we teach him to write down other series of cardinal numbers and
-get him to the point of writing down series of the form o, n, zn, 3n, etc.
-at an order of the form "+n"; so at the order "+i" he writes
-down the series of natural numbers. — Let us suppose we have done
-exercises and given him tests up to 1000.
-Now we get the pupil to continue a series (say +2) beyond 1000 —
-and he writes 1000, 1004, 1008, 1012.
-We say to him: "Look what you've done!" — Pie doesn't understand.
-We say: "You were meant to add tn>o\ look how you began the series!"
-— He answers: "Yes, isn't it right? I thought that was how I was
-meant to do it." —— Or suppose he pointed to the series and said:
-"But I went on in the same way." — It would now be no use to say:
-"But can't you see . . . . ?" — and repeat the old examples and explanations. — In such a case we might say, perhaps: It comes natural to this
-person to understand our order with our explanations as we should
-understand the order: "Add 2 up to 1000, 4 up to 2000, 6 up to 3000
-and so on."
-Such a case would present similarities with one in which a person
-naturally reacted to the gesture of pointing with the hand by looking
-in the direction of the line from finger-tip to wrist, not from wrist to
-finger-tip.
-
- "What you are saying, then, comes to this: a new insight —
-intuition — is needed at every step to carry out the order '-f-n' correctly." — To carry it out correctly! How is it decided what is the right
-step to take at any particular stage? — "The right step is the one that
-accords with the order — as it was meant" — So when you gave the
-order -\-z you meant that he was to write 1002 after 1000 — and did
-you also mean that he should write 1868 after 1866, and 100036
-after 100034, and so on — an infinite number of such propositions? —
-"No: what I meant was, that he should write the next but one number
-after every number that he wrote; and from this all those propositions
-follow in turn." — But that is just what is in question: what, at any stage,
-does follow from that sentence. Or, again, what, at any stage we are to
-call "being in accord" with that sentence (and with the mean-ing you
-then put into the sentence — whatever that may have consisted in). It
-would almost be more correct to say, not that an intuition was needed
-at every stage, but that a new decision was needed at every stage.
-
- "But I already knew, at the time when I gave the order, that
-he ought to write 1002 after 1000." — Certainly; and you can also say
-you meant it then; only you should not let yourself be misled by the
-grammar of the words "know" and "mean". For you don't want
-to say that you thought of the step from 1000 to 1002 at that time—
-and even if you did think of this step, still you did not think of other
-ones. When you said "I already knew at the time . . . . . " that meant
-something like: "If I had then been asked what number should be
-written after 1000, I should have replied '1002'." And that I don't
-doubt. This assumption is rather of the same kind as: "If he had fallen
-into the water then, I should have jumped in after him".—Now, what
-was wrong with your idea?
-
- Here I should first of all like to say: your idea was that that
-act of meaning the order had in its own way already traversed all
-those steps: that when you meant it your mind as it were flew ahead
-and took all the steps before you physically arrived at this or that
-one.
-Thus you were inclined to use such expressions as: "The steps are
-really already taken, even before I take them in writing or orally or in
-thought." And it seemed as if they were in some unique way predetermined, anticipated—as only the act of meaning can anticipate
-reality.
-
- "But are the steps then not determined by the algebraic
-formula?"—The question contains a mistake.
-We use the expression: "The steps are determined by the formula.....".
-How is it used?—We may perhaps refer to the fact that people are
-brought by their education (training) so to use the formula y — x2,
-that they all work out the same value for y when they substitute the
-same number for x. Or we may say: "These people are so trained that
-they all take the same step at the same point when they receive the
-order 'add 3' ". We might express this by saying: for these people the
-order "add 3" completely determines every step from one number
-to the next. (In contrast with other people who do not know what
-they are to do on receiving this order, or who react to it with perfect
-certainty, but each one in a different way.)
-On the other hand we can contrast different kinds of formula,
-and the different kinds of use (different kinds of training) appropriate
-to them. Then we call formulae of a particular kind (with the appropriate methods of use) "formulae which determine a number j for a
-given value of x", and formulae of another kind, ones which "do not
-determine the number j for a given value of x". (j = x2 would be
-of the first kind, j ^ x 2 of the second.) The proposition "The
-formula .... determines a number j" will then be a statement about
-the form of the formula—and now we must distinguish such a proposition as "The formula which I have written down determines j",
-or "Here is a formula which determines j", from one of the following
-kind: "The formula y = x2 determines the number y for a given
-value of x". The question "Is the formula written down there one
-that determines j?" will then mean the same as "Is what is there a
-formula of this kind or that?"—but it is not clear off-hand what we
-are to make of the question "Is y = x2 a formula which determines y
-for a given value of x?" One might address this question to a pupil
-in order to test whether he understands the use of the word "to determine"; or it might be a mathematical problem to prove in a particular
-system that x has only one square.
-
- It may now be said: "The way the formula is meant determines
-which steps are to be taken". What is the criterion for the way the
-formula is meant? It is, for example, the kind of way we always use it,
-the way we are taught to use it.
-We say, for instance, to someone who uses a sign unknown to us:
-"If by ‘x!2’ you mean x2, then you get this value for y, if you mean
-2X, that one."—Now ask yourself: how does one mean the one thing or
-the other by"x!2"?
-That will be how meaning it can determine the steps in advance.
-
- "It is as if we could grasp the whole use of the word in a
-flash." Like what e.g.?—Can't the use—in a certain sense—be grasped
-in a flash? And in what sense can it not?—The point is, that it is as if
-we could 'grasp it in a flash' in yet another and much more direct sense
-than that.—But have you a model for this? No. It is just that this
-expression suggests itself to us. As the result of the crossing of
-different pictures.
-
- You have no model of this superlative fact, but you are
-seduced into using a super-expression. (It might be called a philosophical superlative.)
-
- The machine as symbolizing its action: the action of a
-machine—I might say at first—seems to be there in it from the start.
-What does that mean?—If we know the machine, everything else, that
-is its movement, seems to be already completely determined.
-We talk as if these parts could only move in this way, as if they
-could not do anything else. How is this—do we forget the possibility
-of their bending, breaking off, melting, and so on? Yes; in many cases
-we don't think of that at all. We use a machine, or the drawing of a
-machine, to symbolize a particular action of the machine. For instance,
-we give someone such a drawing and assume that he will derive the
-movement of the parts from it. (Just as we can give someone a number
-by telling him that it is the twenty-fifth in the series i, 4, 9, 16, . . . .)
-"The machine's action seems to be in it from the start" means:
-we are inclined to compare the future movements of the machine
-in their definiteness to objects which are already lying in a drawer
-and which we then take out.——But we do not say this kind of thing
-when we are concerned with predicting the actual behaviour of a
-machine. Then we do not in general forget the possibility of a distortion of the parts and so on.——We do talk like that, however, when
-we are wondering at the way we can use a machine to symbolize a
-given way of moving—since it can also move in quite different ways.
-We might say that a machine, or the picture of it, is the first of a
-series of pictures which we have learnt to derive from this one.
-But when we reflect that the machine could also have moved differently it may look as if the way it moves must be contained in the
-machine-as-symbol far more determinately than in the actual machine.
-As if it were not enough for the movements in question to be empirically determined in advance, but they had to be really—in a mysterious
-sense—already present. And it is quite true: the movement of the
-machine-as-symbol is predetermined in a different sense from that in
-which the movement of any given actual machine is predetermined.
-
- When does one have the thought: the possible movements of
-a machine are already there in it in some mysterious way?—Well,
-when one is doing philosophy. And what leads us into thinking that?
-The kind of way in which we talk about machines. We say, for example,
-that a machine has (possesses) such-and-such possibilities of movement; we speak of the ideally rigid machine which can only move in
-such-and-such a way.——What is this possibility of movement? It is
-not the movement., but it does not seem to be the mere physical conditions
-for moving either—as, that there is play between socket and pin,
-the pin not fitting too tight in the socket. For while this is the empirical
-condition for movement, one could also imagine it to be otherwise.
-The possibility of a movement is, rather, supposed to be like a shadow
-of the movement itself. But do you know of such a shadow? And
-by a shadow I do not mean some picture of the movement—for such a
-picture would not have to be a picture of just this movement. But the
-possibility of this movement must be the possibility of just this
-movement. (See how high the seas of language run here!)
-The waves subside as soon as we ask ourselves: how do we use
-the phrase "possibility of movement" when we are talking about a
-given machine?——But then where did our queer ideas come from?
-Well, I shew you the possibility of a movement, say by means of a
-picture of the movement: 'so possibility is something which is like
-reality'. We say: "It isn't moving yet, but it already has the possibility
-of moving"——'so possibility is something very near reality'. Though
-we may doubt whether such-and-such physical conditions make this
-movement possible, we never discuss whether this is the possibility
-of this or of that movement: 'so the possibility of the movement
-stands in a unique relation to the movement itself; closer than that of a
-picture to its subject'; for it can be doubted whether a picture is the
-picture of this thing or that. We say "Experience will shew whether
-this gives the pin this possibility of movement", but we do not say
-"Experience will shew whether this is the possibility of this movement": 'so it is not an empirical fact that this possibility is the possibility
-of precisely this movement'.
-We mind about the kind of expressions we use concerning these
-things; we do not understand them, however, but misinterpret them.
-When we do philosophy we are like savages, primitive people, who
-hear the expressions of civilized men, put a false interpretation on
-them, and then draw the queerest conclusions from it.
-
- "But I don't mean that what I do now (in grasping a sense)
-determines the future use causally and as a matter of experience, but
-that in a queer way, the use itself is in some sense present."—But of
-course it is, 'in some sense'! Really the only thing wrong with what you
-say is the expression "in a queer way". The rest is all right; and the
-sentence only seems queer when one imagines a different language-game
-for it from the one in which we actually use it. (Someone once told
-me that as a child he had been surprised that a tailor could 'sew a
-dress'—he thought this meant that a dress was produced by sewing
-alone, by sewing one thread on to another.)
-
- In our failure to understand the use of a word we take it as
-the expression of a queer process. (As we think of time as a queer
-medium, of the mind as a queer kind of being.)
-
-
- "It's as if we could grasp the whole use of a word in a flash."—
-And that is just what we say we do. That is to say: we sometimes
-describe what we do in these words. But there is nothing astonishing,
-nothing queer, about what happens. It becomes queer when we are
-led to think that the future development must in some way already be
-present in the act of grasping the use and yet isn't present.—For wre say
-that there isn't any doubt that we understand the word, and on the
-other hand its meaning lies in its use. There is no doubt that I now
-want to play chess, but chess is the game it is in virtue of all its rules
-(and so on). Don't I know, then, which game I want to play until I
-have played it? or are all the rules contained in my act of intending?
-Is it experience that tells me that this sort of game is the usual consequence of such an act of intending? so is it impossible for me to be
-certain what I am intending to do? And if that is nonsense—what
-kind of super-strong connexion exists between the act of intending
-and the thing intended?——Where is the connexion effected between
-the sense of the expression "Let's play a game of chess" and all the
-rules of the game?—Well, in the list of rules of the game, in the teaching
-of it, in the day-to-day practice of playing.
-
- "But how can a rule shew me what I have to do at this point?
-Whatever I do is, on some interpretation, in accord with the rule."—
-That is not what we ought to say, but rather: any interpretation still
-hangs in the air along with what it interprets, and cannot give it
-any support. Interpretations by themselves do not determine meaning.
-"Then can whatever I do be brought into accord with the rule?"—
-Let me ask this: what has the expression of a rule—say a sign-post—
-got to do with my actions? What sort of connexion is there here?—
-Well, perhaps this one: I have been trained to react to this sign in a
-particular way, and now I do so react to it.
-But that is only to give a causal connexion; to tell how it has come
-about that we now go by the sign-post; not what this going-by-thesign really consists in. On the contrary; I have further indicated that
-a person goes by a sign-post only in so far as there exists a regular use
-of sign-posts, a custom.
-
- Is what we call "obeying a rule" something that it would be
-possible for only one man to do, and to do only once in his life?—
-This is of course a note on the grammar of the expression "to obey a
-rule".
-It is not possible that there should have been only one occasion on
-which someone obeyed a rule. It is not possible that there should have
-been only one occasion on which a report was made, an order given or
-understood; and so on.—To obey a rule, to make a report, to give an
-order, to play a game of chess, are customs (uses, institutions).
-To understand a sentence means to understand a language. To
-understand a language means to be master of a technique.
-
-
- It is, of course, imaginable that two people belonging to a
-tribe unacquainted with games should sit at a chess-board and go
-through the moves of a game of chess; and even with all the appropriate
-mental accompaniments. And if n>e were to see it we should say they
-were playing chess. But now imagine a game of chess translated
-according to certain rules into a series of actions which we do not
-ordinarily associate with a game—say into yells and stamping of feet.
-And now suppose those two people to yell and stamp instead of playing the form of chess that we are used to; and this in such a way
-that their procedure is translatable by suitable rules into a game of
-chess. Should we still be inclined to say they were playing a game?
-What right would one have to say so?
-
- This was our paradox: no course of action could be determined by a rule, because every course of action can be made out to
-accord with the rule. The answer was: if everything can be made out
-to accord with the rule, then it can also be made out to conflict with it.
-And so there would be neither accord nor conflict here.
-It can be seen that there is a misunderstanding here from the mere fact
-that in the course of our argument we give one interpretation after
-another; as if each one contented us at least for a moment, until we
-thought of yet another standing behind it. What this shews is that
-there is a way of grasping a rule which is not an interpretation, but which
-is exhibited in what we call "obeying the rule" and "going against it"
-in actual cases.
-Hence there is an inclination to say: every action according to the
-rule is an interpretation. But we ought to restrict the term "interpretation" to the substitution of one expression of the rule for another.
-
- And hence also 'obeying a rule' is a practice. And to think one
-is obeying a rule is not to obey a rule. Hence it is not possible to obey
-a rule 'privately': otherwise thinking one was obeying a rule would be
-the same thing as obeying it.
-
-
- Language is a labyrinth of paths. You approach from one
-side and know your way about; you approach the same place from
-another side and no longer know your way about.
-
- As things are I can, for example, invent a game that is never
-played by anyone.—But would the following be possible too: mankind
-has never played any games; once, however, someone invented a game
-—which no one ever played?
-
- "But it is just the queer thing about intention, about the
-mental process, that the existence of a custom, of a technique, is not
-necessary to it. That, for example, it is imaginable that two people
-should play chess in a world in which otherwise no games existed; and
-even that they should begin a game of chess—and then be interrupted."
-But isn't chess defined by its rules? And how are these rules present
-in the mind of the person who is intending to play chess?
-
- Following a rule is analogous to obeying an order. We are
-trained to do so; we react to an order in a particular way. But what if
-one person reacts in one way and another in another to the order and
-the training? Which one is right?
-Suppose you came as an explorer into an unknown country with a
-language quite strange to you. In what circumstances would you
-say that the people there gave orders, understood them, obeyed them,
-rebelled against them, and so on?
-The common behaviour of mankind is the system of reference by
-means of which we interpret an unknown language.
-
- Let us imagine that the people in that country carried on the
-usual human activities and in the course of them employed, apparently,
-an articulate language. If we watch their behaviour we find it intelligible, it seems 'logical'. But when we try to learn their language we
-find it impossible to do so. For there is no regular connexion between
-what they say, the sounds they make, and their actions; but still these
-sounds are not superfluous, for if we gag one of the people, it has the
-same consequences as with us; without the sounds their actions fall
-into confusion—as I feel like putting it.
-Are we to say that these people have a language: orders, reports,
-and the rest?
-There is not enough regularity for us to call it "language".
-
- Then am I defining "order" and "rule" by means of
-"regularity"?—How do I explain the meaning of "regular", "uniform",
-"same" to anyone?—I shall explain these words to someone who, say,
-only speaks French by means of the corresponding French words.
-But if a person has not yet got the concepts, I shall teach him to use the
-words by means of examples and by practice.—And when I do this I
-do not communicate less to him than I know myself.
-In the course of this teaching I shall shew him the same colours,
-the same lengths, the same shapes, I shall make him find them and
-produce them, and so on. I shall, for instance, get him to continue an
-ornamental pattern uniformly when told to do so.—And also to
-continue progressions. And so, for example, when given: . . . ... to
-go on: . . . . . . . . . . . . . . . .
-I do it, he does it after me; and I influence him by expressions of
-agreement, rejection, expectation, encouragement. I let him go his
-way, or hold him back; and so on.
-Imagine witnessing such teaching. None of the words would be
-explained by means of itself; there would be no logical circle.
-The expressions "and so on", "and so on ad infinitum" are also
-explained in this teaching. A gesture, among other things, might serve
-this purpose. The gesture that means "go on like this", or "and so
-on" has a function comparable to that of pointing to an object or a
-place.
-We should distinguish between the "and so on" which is, and the
-"and so on" which is not, an abbreviated notation. "And so on ad inf."
-is not such an abbreviation. The fact that we cannot write down all the
-digits of TT is not a human shortcoming, as mathematicians sometimes
-think.
-Teaching which is not meant to apply to anything but the examples
-given is different from that which 'points beyond' them.
-
-
- "But then doesn't our understanding reach beyond all the
-examples?"—A very queer expression, and a quite natural one!—
-But is that a//? Isn't there a deeper explanation; or mustn't at least
-the understanding of the explanation be deeper?—Well, have I myself
-a deeper understanding? Have I got more than I give in the explanation?—But then, whence the feeling that I have got more?
-Is it like the case where I interpret what is not limited as a length
-that reaches beyond every length?
-
- "But do you really explain to the other person what you
-yourself understand? Don't you get him to guess the essential thing?
-You give him examples,—but he has to guess their drift, to guess your
-intention."—Every explanation which I can give myself I give to him
-too.—"He guesses what I intend" would mean: various interpretations of my explanation come to his mind, and he lights on one of
-them. So in this case he could ask; and I could and should answer him.
-
- How can he know how he is to continue a pattern by himself—
-whatever instruction you give him?—Well, how do I know?——If
-that means "Have I reasons?" the answer is: my reasons will soon
-give out. And then I shall act, without reasons.
-
- When someone whom I am afraid of orders me to condnue
-the series, I act quickly, with perfect certainty, and the lack of reasons
-does not trouble me.
-
- "But this initial segment of a series obviously admitted of
-various interpretations (e.g. by means of algebraic expressions) and
-so you must first have chosen one such interpretation."—Not at all.
-A doubt was possible in certain circumstances. But that is not to say
-that I did doubt, or even could doubt. (There is something to be said,
-which is connected with this, about the psychological 'atmosphere' of a
-process.)
-So it must have been intuition that removed this doubt?—If intuidon
-is an inner voice—how do 1 know how I am to obey it? And how do I
-know that it doesn't mislead me? For if it can guide me right, it can
-also guide me wrong.
-((Intuidon an unnecessary shuffle.))
-
- If you have to have an intuition in order to develop the series
-1 2 3 4 . . . you must also have one in order to develop the series
-2 2 2 2 ... .
-
-215 . But isn't the same at least the same?
-We seem to have an infallible paradigm of identity in the identity
-of a thing with itself. I feel like saying: "Here at any rate there can't
-be a variety of interpretations. If you are seeing a thing you are
-seeing identity too."
-Then are two things the same when they are what one thing is?
-And how am I to apply what the one thing shews me to the case of
-two things?
-
- "A thing is identical with itself."—There is no finer example
-of a useless proposition, which yet is connected with a certain play
-of the imagination. It is as if in imagination we put a thing into its
-own shape and saw that it fitted.
-We might also say: "Every thing fits into itself." Or again: "Every
-thing fits into its own shape." At the same time we look at a thing
-and imagine that there was a blank left for it, and that now it fits into
-it exactly.
-Does this spot
-'//' into its white surrounding?—But that is just
-how it would look if there had at first been a hole in its place and it then
-fitted into the hole. But when we say "it fits" we are not simply
-describing this appearance; not simply this situation,
-"Every coloured patch fits exactly into its surrounding" is a rather
-specialized form of the law of identity.
-
-
- "How am I able to obey a rule?"—if this is not a question
-about causes, then it is about the justification for my following the
-rule in the way I do.
-If I have exhausted the justifications I have reached bedrock, and
-my spade is turned. Then I am inclined to say: "This is simply what I
-do."
-(Remember that we sometimes demand definitions for the sake not
-of their content, but of their form. Our requirement is an architectural one; the definition a kind of ornamental coping that supports
-nothing.)
-
- Whence comes the idea that the beginning of a series is a
-visible section of rails invisibly laid to infinity? Well, we might imagine
-rails instead of a rule. And infinitely long rails correspond to the unlimited application of a rule.
-
- "All the steps are really already taken" means: I no longer
-have any choice. The rule, once stamped with a particular meaning,
-.traces the lines along which it is to be followed through the whole
-of space.——But if something of this sort really were the case, how
-would it help?
-No; my description only made sense if it was to be understood
-symbolically.—I should have said: This is how it strikes me.
-When I obey a rule, I do not choose.
-I obey the rule blindly.
-
- But what is the purpose of that symbolical proposition? It
-was supposed to bring into prominence a difference between being
-causally determined and being logically determined.
-
- My symbolical expression was really a mythological description of the use of a rule.
-
-
- "The line intimates to me the way I am to go." — But that is
-of course only a picture. And if I judged that it intimated this or that as
-it were irresponsibly, I should not say that I was obeying it like a rule.
-
- One does not feel that one has always got to wait upon the
-nod (the whisper) of the rule. On the contrary, we are not on tenterhooks about what it will tell us next, but it always tells us the same,
-and we do what it tells us.
-One might say to the person one was training: "Look, I always do
-the same thing: I . . . . . "
-
- The word "agreement" and the word "rule" are related to
-one another, they are cousins. If I teach anyone the use of the one
-word, he learns the use of the other with it.
-
- The use of the word "rule" and the use of the word "same" are
-interwoven. (As are the use of "proposition" and the use of "true".)
-
- Suppose someone gets the series of numbers i, 3, 5, 7, . . . . by
-working out the series 2.x -f- i1. And now he asks himself: "But am I
-always doing the same thing, or something different every time?"
-If from one day to the next you promise: "To-morrow I will come
-and see you" — are you saying the same thing every day, or every day
-something different?
-
- Would it make sense to say "If he did something different every
-day we should not say he was obeying a rule"? That makes no sense.
-
- "We see a series in just one way!" — All right, but what is
-that way? Clearly we see it algebraically, and as a segment of an
-expansion. Or is there more in it than that? — "But the way we see it
-surely gives us everything!" — But that is not an observation about the
-segment of the series; or about anything that we notice in it; it gives
-expression to the fact that we look to the rule for instruction and do
-something, without appealing to anything else for guidance.
-
- I believe that I perceive something drawn very fine in a
-segment of a series, a characteristic design, which only needs the
-addition of "and so on", in order to reach to infinity.
-
- "The line intimates to me which way I am to go" is only a
-paraphrase of: it is my last arbiter for the way I am to go.
-
- "But surely you can see . . . .?" That is just the characteristic
-expression of someone who is under the compulsion of a rule.
-
- Let us imagine a rule intimating to me which way I am to
-obey it; that is, as my eye travels along the line, a voice within me says:
-"This way!"—What is the difference between this process of obeying
-a kind of inspiration and that of obeying a rule? For they are surely
-not the same. In the case of inspiration I await direction. I shall not
-be able to teach anyone else my 'technique' of following the line.
-Unless, indeed, I teach him some way of hearkening, some kind of
-receptivity. But then, of course, I cannot require him to follow the line
-in the same way as I do.
-These are not my experiences of acting from inspiration and according to a rule; they are grammatical notes.
-
- It would also be possible to imagine such a training in a sort
-of arithmetic. Children could calculate, each in his own way—as long
-as they listened to their inner voice and obeyed it. Calculating in this
-way would be like a sort of composing.
-
- Would it not be possible for us, however, to calculate as we
-actually do (all agreeing, and so on), and still at every step to have a
-feeling of being guided by the rules as by a spell, feeling astonishment
-at the fact that we agreed? (We might give thanks to the Deity for our
-agreement.)
-
- This merely shews what goes to make up what we call
-"obeying a rule" in everyday life.
-
- Calculating prodigies who get the right answer but cannot
-say how. Are we to say that they do not calculate? (A family of cases.)
-
- Imagine someone using a line as a rule in the following
-way: he holds a pair of compasses, and carries one of its points along
-the line that is the 'rule', while the other one draws the line that follows
-the rule. And while he moves along the ruling line he alters the opening of the compasses, apparently with great precision, looking at the
-rule the whole time as if it determined what he did. And watching him
-we see no kind of regularity in this opening and shutting of the compasses. We cannot learn his way of following the line from it. Here
-perhaps one really would say: "The original seems to intimate to him
-which way he is to go. But it is not a rule."
-
- The rule can only seem to me to produce all its consequences
-in advance if I draw them as a matter of course. As much as it is a matter
-of course for me to call this colour "blue". (Criteria for the fact that
-something is 'a matter of course' for me.)
-
- How is he to know what colour he is to pick out when he
-hears "red"?—Quite simple: he is to take the colour whose image
-occurs to him when he hears the word.—But how is he to know which
-colour it is 'whose image occurs to him'? Is a further criterion needed
-for that? (There is indeed such a procedure as choosing the colour
-which occurs to one when one hears the word " . . . . " )
-" 'Red' means the colour that occurs to me when I hear the word
-<recl' "—would be a definition. Not an explanation of what it is to use
-a word as a name.
-
- Disputes do not break out (among mathematicians, say) over
-the question whether a rule has been obeyed or not. People don't
-come to blows over it, for example. That is part of the framework
-on which the working of our language is based (for example, in giving
-descriptions).
-
- "So you are saying that human agreement decides what is
-true and what is false?"—It is what human beings say that is true and
-false; and they agree in the language they use. That is not agreement in
-opinions but in form of life.
-
- If language is to be a means of communication there must
-be agreement not only in definitions but also (queer as this may
-sound) in judgments. This seems to abolish logic, but does not do so.—
-It is one thing to describe methods of measurement, and another to
-obtain and state results of measurement. But what we call "measuring"
-is partly determined by a certain constancy in results of measurement.
+ (Exercises: (i) When is a cylinder C said to fit into a hollow cylinder H?
+  Only while C is stuck into H?
+  (2) Sometimes we say that C ceased to fit into H at such-and-such a time.
+  What criteria are used in such a case for its having happened at that time?
+  (3) What does one regard as criteria for a body's having changed its weight at a particular time if it was not actually on the balance at that time?
+  (4) Yesterday I knew the poem by heart; today I no longer know it.
+  In what kind of case does it make sense to ask: "When did I stop knowing it?"
+  (5) Someone asks me "Can you lift this weight? "I answer "Yes".
+  Now he says "Do it!"—and I can't.
+  In what kind of circumstances would it count as a justification to say "When I answered 'yes' I could do it, only now I can't"?
+  The criteria which we accept for 'fitting', 'being able to', 'understanding', are much more complicated than might appear at first sight.
+  That is, the game with these words, their employment in the linguistic intercourse that is carried on by their means, is more involved—the role of these words in our language other—than we are tempted to think.
+  (This role is what we need to understand in order to resolve philosophical paradoxes. And hence definitions usually fail to resolve them; and so, a fortiori does the assertion that a word is 'indefinable'.)
+  But did "Now I can go on" in case (151) mean the same as "Now the formula has occurred to me" or something different?
+  We may say that, in those circumstances, the two sentences have the same sense, achieve the same thing.
+  But also that in general these two sentences do not have the same sense.
+  We do say: "Now I can go on, I mean I know the formula", as we say "I can walk, I mean I have time"; but also "I can walk, I mean I am already strong enough"; or: "I can walk, as far as the state of my legs is concerned", that is, when we are contrasting this condition for walking with others.
+  But here we must be on our guard against thinking that there is some totality of conditions corresponding to the nature of each case (e.g. for a person's walking) so that, as it were, he could not but walk if they were all fulfilled.
+  I want to remember a tune and it escapes me; suddenly I say "Now I know it" and I sing it.
+  What was it like to suddenly know it?
+  Surely it can't have occurred to me in its entirety in that moment!
+  — Perhaps you will say: "It's a particular feeling, as if it were there"— but is it there?
+  Suppose I now begin to sing it and get stuck?
+  —— But may I not have been certain at that moment that I knew it?
+  So in some sense or other it was there after all!
+  ——But in what sense?
+  You would say that the tune was there, if, say, someone sang it through, or heard it mentally from beginning to end.
+  I am not, of course, denying that the statement that the tune is there can also be given a quite different meaning—for example, that I have a bit of paper on which it is written.
+  —And what does his being 'certain', his knowing it, consist in?
+  —Of course we can say: if someone says with conviction that now he knows the tune, then it is (somehow) present to his mind in its entirety at that moment——and this is a definition of the expression "the tune is present to his mind in its entirety".
+  Let us return to our example (143).
+  Now—judged by the usual criteria—the pupil has mastered the series of natural numbers.
+  Next we teach him to write down other series of cardinal numbers and get him to the point of writing down series of the form o, n, zn, 3n, etc. at an order of the form "+n"; so at the order "+1" he writes down the series of natural numbers.
+  — Let us suppose we have done exercises and given him tests up to 1000.
+  Now we get the pupil to continue a series (say +2) beyond 1000 — and he writes 1000, 1004, 1008, 1012.
+  We say to him: "Look what you've done!" — He doesn't understand.
+  We say: "You were meant to add tn>o\ look how you began the series!"
+  — He answers: "Yes, isn't it right?  I thought that was how I was meant to do it."
+  —— Or suppose he pointed to the series and said: "But I went on in the same way."
+  — It would now be no use to say: "But can't you see . . . . ?" — and repeat the old examples and explanations.
+  — In such a case we might say, perhaps: It comes natural to this person to understand our order with our explanations as we should understand the order: "Add 2 up to 1000, 4 up to 2000, 6 up to 3000 and so on."
+  Such a case would present similarities with one in which a person naturally reacted to the gesture of pointing with the hand by looking in the direction of the line from finger-tip to wrist, not from wrist to finger-tip.
+  "What you are saying, then, comes to this: a new insight — intuition — is needed at every step to carry out the order '-f-n' correctly."
+  — To carry it out correctly!
+  How is it decided what is the right step to take at any particular stage?
+  — "The right step is the one that accords with the order — as it was meant."
+  — So when you gave the order +2 you meant that he was to write 1002 after 1000 — and did you also mean that he should write 1868 after 1866, and 100036 after 100034, and so on — an infinite number of such propositions?
+  — "No: what I meant was, that he should write the next but one number after every number that he wrote; and from this all those propositions follow in turn.
+  " — But that is just what is in question: what, at any stage, does follow from that sentence.
+  Or, again, what, at any stage we are to call "being in accord" with that sentence (and with the mean-ing you then put into the sentence — whatever that may have consisted in).
+  It would almost be more correct to say, not that an intuition was needed at every stage, but that a new decision was needed at every stage.
+  "But I already knew, at the time when I gave the order, that he ought to write 1002 after 1000."
+  — Certainly; and you can also say you meant it then; only you should not let yourself be misled by the grammar of the words "know" and "mean".
+  For you don't want to say that you thought of the step from 1000 to 1002 at that time— and even if you did think of this step, still you did not think of other ones.
+  When you said "I already knew at the time . . . . . " that meant something like: "If I had then been asked what number should be written after 1000, I should have replied '1002'."
+  And that I don't doubt.
+  This assumption is rather of the same kind as: "If he had fallen into the water then, I should have jumped in after him".
+  —Now, what was wrong with your idea?
+  Here I should first of all like to say: your idea was that that act of meaning the order had in its own way already traversed all those steps: that when you meant it your mind as it were flew ahead and took all the steps before you physically arrived at this or that one.
+  Thus you were inclined to use such expressions as: "The steps are really already taken, even before I take them in writing or orally or in thought."
+  And it seemed as if they were in some unique way predetermined, anticipated—as only the act of meaning can anticipate reality.
+  "But are the steps then not determined by the algebraic formula?"
+  —The question contains a mistake.
+  We use the expression: "The steps are determined by the formula . . . . .".
+  How is it used?
+  —We may perhaps refer to the fact that people are brought by their education (training) so to use the formula y — x^2, that they all work out the same value for y when they substitute the same number for x.
+  Or we may say: "These people are so trained that they all take the same step at the same point when they receive the order 'add 3' ".
+  We might express this by saying: for these people the order "add 3" completely determines every step from one number to the next.
+  (In contrast with other people who do not know what they are to do on receiving this order, or who react to it with perfect certainty, but each one in a different way.)
+  On the other hand we can contrast different kinds of formula, and the different kinds of use (different kinds of training) appropriate to them.
+  Then we call formulae of a particular kind (with the appropriate methods of use) "formulae which determine a number y for a given value of x", and formulae of another kind, ones which "do not determine the number y for a given value of x".
+  (y = x^2 would be of the first kind, y /= x^2 of the second.)
+  The proposition "The formula . . . .  determines a number y" will then be a statement about the form of the formula—and now we must distinguish such a proposition as "The formula which I have written down determines y", or "Here is a formula which determines y", from one of the following kind: "The formula y = x^2 determines the number y for a given value of x".
+  The question "Is the formula written down there one that determines y?" will then mean the same as "Is what is there a formula of this kind or that?"—but it is not clear off-hand what we are to make of the question "Is y = x^2 a formula which determines y for a given value of x?"
+  One might address this question to a pupil in order to test whether he understands the use of the word "to determine"; or it might be a mathematical problem to prove in a particular system that x has only one square.
+  It may now be said: "The way the formula is meant determines which steps are to be taken".
+  What is the criterion for the way the formula is meant?
+  It is, for example, the kind of way we always use it, the way we are taught to use it.
+  We say, for instance, to someone who uses a sign unknown to us: "If by ‘x!2’ you mean x^2, then you get this value for y, if you mean 2X, that one."
+  —Now ask yourself: how does one mean the one thing or the other by "x!2"?
+  That will be how meaning it can determine the steps in advance.
+  "It is as if we could grasp the whole use of the word in a flash."
+  Like what e.g.?
+  —Can't the use—in a certain sense—be grasped in a flash?
+  And in what sense can it not?
+  —The point is, that it is as if we could 'grasp it in a flash' in yet another and much more direct sense than that.
+  —But have you a model for this?
+  No.
+  It is just that this expression suggests itself to us.
+  As the result of the crossing of different pictures.
+  You have no model of this superlative fact, but you are seduced into using a super-expression.
+  (It might be called a philosophical superlative.)
+  The machine as symbolizing its action: the action of a machine—I might say at first—seems to be there in it from the start.
+  What does that mean?
+  —If we know the machine, everything else, that is its movement, seems to be already completely determined.
+  We talk as if these parts could only move in this way, as if they could not do anything else.
+  How is this—do we forget the possibility of their bending, breaking off, melting, and so on?
+  Yes; in many cases we don't think of that at all.
+  We use a machine, or the drawing of a machine, to symbolize a particular action of the machine.
+  For instance, we give someone such a drawing and assume that he will derive the movement of the parts from it.
+  (Just as we can give someone a number by telling him that it is the twenty-fifth in the series i, 4, 9, 16, . . . .)
+  "The machine's action seems to be in it from the start" means: we are inclined to compare the future movements of the machine in their definiteness to objects which are already lying in a drawer and which we then take out.
+  ——But we do not say this kind of thing when we are concerned with predicting the actual behaviour of a machine.
+  Then we do not in general forget the possibility of a distortion of the parts and so on.
+  ——We do talk like that, however, when we are wondering at the way we can use a machine to symbolize a given way of moving—since it can also move in quite different ways.
+  We might say that a machine, or the picture of it, is the first of a series of pictures which we have learnt to derive from this one.
+  But when we reflect that the machine could also have moved differently it may look as if the way it moves must be contained in the machine-as-symbol far more determinately than in the actual machine.
+  As if it were not enough for the movements in question to be empirically determined in advance, but they had to be really—in a mysterious sense—already present.
+  And it is quite true: the movement of the machine-as-symbol is predetermined in a different sense from that in which the movement of any given actual machine is predetermined.
+  When does one have the thought: the possible movements of a machine are already there in it in some mysterious way?
+  —Well, when one is doing philosophy.
+  And what leads us into thinking that?
+  The kind of way in which we talk about machines.
+  We say, for example, that a machine has (possesses) such-and-such possibilities of movement; we speak of the ideally rigid machine which can only move in such-and-such a way.
+  ——What is this possibility of movement?
+  It is not the movement, but it does not seem to be the mere physical conditions for moving either—as, that there is play between socket and pin, the pin not fitting too tight in the socket.
+  For while this is the empirical condition for movement, one could also imagine it to be otherwise.
+  The possibility of a movement is, rather, supposed to be like a shadow of the movement itself.
+  But do you know of such a shadow?
+  And by a shadow I do not mean some picture of the movement—for such a picture would not have to be a picture of just this movement.
+  But the possibility of this movement must be the possibility of just this movement.
+  (See how high the seas of language run here!)
+  The waves subside as soon as we ask ourselves: how do we use the phrase "possibility of movement" when we are talking about a given machine?
+  ——But then where did our queer ideas come from?
+  Well, I shew you the possibility of a movement, say by means of a picture of the movement: 'so possibility is something which is like reality'.
+  We say: "It isn't moving yet, but it already has the possibility of moving"——'so possibility is something very near reality'.
+  Though we may doubt whether such-and-such physical conditions make this movement possible, we never discuss whether this is the possibility of this or of that movement: 'so the possibility of the movement stands in a unique relation to the movement itself; closer than that of a picture to its subject'; for it can be doubted whether a picture is the picture of this thing or that.
+  We say "Experience will shew whether this gives the pin this possibility of movement", but we do not say "Experience will shew whether this is the possibility of this movement": 'so it is not an empirical fact that this possibility is the possibility of precisely this movement'.
+  We mind about the kind of expressions we use concerning these things; we do not understand them, however, but misinterpret them.
+  When we do philosophy we are like savages, primitive people, who hear the expressions of civilized men, put a false interpretation on them, and then draw the queerest conclusions from it.
+  "But I don't mean that what I do now (in grasping a sense) determines the future use causally and as a matter of experience, but that in a queer way, the use itself is in some sense present."
+  —But of course it is, 'in some sense'!
+  Really the only thing wrong with what you say is the expression "in a queer way".
+  The rest is all right; and the sentence only seems queer when one imagines a different language-game for it from the one in which we actually use it.
+  (Someone once told me that as a child he had been surprised that a tailor could 'sew a dress'—he thought this meant that a dress was produced by sewing alone, by sewing one thread on to another.)
+  In our failure to understand the use of a word we take it as the expression of a queer process.
+  (As we think of time as a queer medium, of the mind as a queer kind of being.)
+  "It's as if we could grasp the whole use of a word in a flash."
+  — And that is just what we say we do.
+  That is to say: we sometimes describe what we do in these words.
+  But there is nothing astonishing, nothing queer, about what happens.
+  It becomes queer when we are led to think that the future development must in some way already be present in the act of grasping the use and yet isn't present.
+  —For wre say that there isn't any doubt that we understand the word, and on the other hand its meaning lies in its use.
+  There is no doubt that I now want to play chess, but chess is the game it is in virtue of all its rules (and so on).
+  Don't I know, then, which game I want to play until I have played it? or are all the rules contained in my act of intending?
+  Is it experience that tells me that this sort of game is the usual consequence of such an act of intending? so is it impossible for me to be certain what I am intending to do?
+  And if that is nonsense—what kind of super-strong connexion exists between the act of intending and the thing intended?
+  ——Where is the connexion effected between the sense of the expression "Let's play a game of chess" and all the rules of the game?
+  —Well, in the list of rules of the game, in the teaching of it, in the day-to-day practice of playing.
+  "But how can a rule shew me what I have to do at this point?  Whatever I do is, on some interpretation, in accord with the rule."
+  — That is not what we ought to say, but rather: any interpretation still hangs in the air along with what it interprets, and cannot give it any support.
+  Interpretations by themselves do not determine meaning.
+  "Then can whatever I do be brought into accord with the rule?"
+  — Let me ask this: what has the expression of a rule—say a sign-post— got to do with my actions?
+  What sort of connexion is there here?
+  — Well, perhaps this one: I have been trained to react to this sign in a particular way, and now I do so react to it.
+  But that is only to give a causal connexion; to tell how it has come about that we now go by the sign-post; not what this going-by-thesign really consists in.
+  On the contrary; I have further indicated that a person goes by a sign-post only in so far as there exists a regular use of sign-posts, a custom.
+  Is what we call "obeying a rule" something that it would be possible for only one man to do, and to do only once in his life?
+  — This is of course a note on the grammar of the expression "to obey a rule".
+  It is not possible that there should have been only one occasion on which someone obeyed a rule.
+  It is not possible that there should have been only one occasion on which a report was made, an order given or understood; and so on.
+  —To obey a rule, to make a report, to give an order, to play a game of chess, are customs (uses, institutions).
+  To understand a sentence means to understand a language.
+  To understand a language means to be master of a technique.
+  It is, of course, imaginable that two people belonging to a tribe unacquainted with games should sit at a chess-board and go through the moves of a game of chess; and even with all the appropriate mental accompaniments.
+  And if we were to see it we should say they were playing chess.
+  But now imagine a game of chess translated according to certain rules into a series of actions which we do not ordinarily associate with a game—say into yells and stamping of feet.
+  And now suppose those two people to yell and stamp instead of playing the form of chess that we are used to; and this in such a way that their procedure is translatable by suitable rules into a game of chess.
+  Should we still be inclined to say they were playing a game?
+  What right would one have to say so?
+  This was our paradox: no course of action could be determined by a rule, because every course of action can be made out to accord with the rule.
+  The answer was: if everything can be made out to accord with the rule, then it can also be made out to conflict with it.
+  And so there would be neither accord nor conflict here.
+  It can be seen that there is a misunderstanding here from the mere fact that in the course of our argument we give one interpretation after another; as if each one contented us at least for a moment, until we thought of yet another standing behind it.
+  What this shews is that there is a way of grasping a rule which is not an interpretation, but which is exhibited in what we call "obeying the rule" and "going against it" in actual cases.
+  Hence there is an inclination to say: every action according to the rule is an interpretation.
+  But we ought to restrict the term "interpretation" to the substitution of one expression of the rule for another.
+  And hence also 'obeying a rule' is a practice.
+  And to think one is obeying a rule is not to obey a rule.
+  Hence it is not possible to obey a rule 'privately': otherwise thinking one was obeying a rule would be the same thing as obeying it.
+  Language is a labyrinth of paths.
+  You approach from one side and know your way about; you approach the same place from another side and no longer know your way about.
+  As things are I can, for example, invent a game that is never played by anyone.
+  —But would the following be possible too: mankind has never played any games; once, however, someone invented a game —which no one ever played?
+  "But it is just the queer thing about intention, about the mental process, that the existence of a custom, of a technique, is not necessary to it. That, for example, it is imaginable that two people should play chess in a world in which otherwise no games existed; and even that they should begin a game of chess—and then be interrupted. "
+  But isn't chess defined by its rules?
+  And how are these rules present in the mind of the person who is intending to play chess?
+  Following a rule is analogous to obeying an order.
+  We are trained to do so; we react to an order in a particular way.
+  But what if one person reacts in one way and another in another to the order and the training?
+  Which one is right?
+  Suppose you came as an explorer into an unknown country with a language quite strange to you.
+  In what circumstances would you say that the people there gave orders, understood them, obeyed them, rebelled against them, and so on?
+  The common behaviour of mankind is the system of reference by means of which we interpret an unknown language.
+  Let us imagine that the people in that country carried on the usual human activities and in the course of them employed, apparently, an articulate language.
+  If we watch their behaviour we find it intelligible, it seems 'logical'.
+  But when we try to learn their language we find it impossible to do so.
+  For there is no regular connexion between what they say, the sounds they make, and their actions; but still these sounds are not superfluous, for if we gag one of the people, it has the same consequences as with us; without the sounds their actions fall into confusion—as I feel like putting it.
+  Are we to say that these people have a language: orders, reports, and the rest?
+  There is not enough regularity for us to call it "language".
+  Then am I defining "order" and "rule" by means of "regularity"?
+  —How do I explain the meaning of "regular", "uniform", "same" to anyone?
+  —I shall explain these words to someone who, say, only speaks French by means of the corresponding French words.
+  But if a person has not yet got the concepts, I shall teach him to use the words by means of examples and by practice.
+  —And when I do this I do not communicate less to him than I know myself.
+  In the course of this teaching I shall shew him the same colours, the same lengths, the same shapes, I shall make him find them and produce them, and so on.
+  I shall, for instance, get him to continue an ornamental pattern uniformly when told to do so.
+  —And also to continue progressions.
+  And so, for example, when given: . ..  ...  to go on: .... .....  ...... .
+  I do it, he does it after me; and I influence him by expressions of agreement, rejection, expectation, encouragement.
+  I let him go his way, or hold him back; and so on.
+  Imagine witnessing such teaching.
+  None of the words would be explained by means of itself; there would be no logical circle.
+  The expressions "and so on", "and so on ad infinitum" are also explained in this teaching.
+  A gesture, among other things, might serve this purpose.
+  The gesture that means "go on like this", or "and so on" has a function comparable to that of pointing to an object or a place.
+  We should distinguish between the "and so on" which is, and the "and so on" which is not, an abbreviated notation.
+  "And so on ad inf. " is not such an abbreviation.
+  The fact that we cannot write down all the digits of pi is not a human shortcoming, as mathematicians sometimes think.
+  Teaching which is not meant to apply to anything but the examples given is different from that which 'points beyond' them.
+  "But then doesn't our understanding reach beyond all the examples?"
+  —A very queer expression, and a quite natural one! — But is that all? Isn't there a deeper explanation; or mustn't at least the understanding of the explanation be deeper?
+  —Well, have I myself a deeper understanding?
+  Have I got more than I give in the explanation?
+  —But then, whence the feeling that I have got more?
+  Is it like the case where I interpret what is not limited as a length that reaches beyond every length?
+  "But do you really explain to the other person what you yourself understand? Don't you get him to guess the essential thing? You give him examples,—but he has to guess their drift, to guess your intention."
+  —Every explanation which I can give myself I give to him too.
+  —"He guesses what I intend" would mean: various interpretations of my explanation come to his mind, and he lights on one of them.
+  So in this case he could ask; and I could and should answer him.
+  How can he know how he is to continue a pattern by himself— whatever instruction you give him?
+  —Well, how do I know?
+  ——If that means "Have I reasons?" the answer is: my reasons will soon give out.
+  And then I shall act, without reasons.
+  When someone whom I am afraid of orders me to condnue the series, I act quickly, with perfect certainty, and the lack of reasons does not trouble me.
+  "But this initial segment of a series obviously admitted of various interpretations (e.g. by means of algebraic expressions) and so you must first have chosen one such interpretation."
+  —Not at all.
+  A doubt was possible in certain circumstances.
+  But that is not to say that I did doubt, or even could doubt.
+  (There is something to be said, which is connected with this, about the psychological 'atmosphere' of a process.)
+  So it must have been intuition that removed this doubt?
+  —If intuidon is an inner voice—how do 1 know how I am to obey it?
+  And how do I know that it doesn't mislead me?
+  For if it can guide me right, it can also guide me wrong.
+  ((Intuition an unnecessary shuffle.))
+  If you have to have an intuition in order to develop the series 1 2 3 4 . . .  you must also have one in order to develop the series 2 2 2 2 . . .  .
+  But isn't the same at least the same?
+  We seem to have an infallible paradigm of identity in the identity of a thing with itself.
+  I feel like saying: "Here at any rate there can't be a variety of interpretations. If you are seeing a thing you are seeing identity too."
+  Then are two things the same when they are what one thing is?
+  And how am I to apply what the one thing shews me to the case of two things?
+  "A thing is identical with itself."
+  —There is no finer example of a useless proposition, which yet is connected with a certain play of the imagination.
+  It is as if in imagination we put a thing into its own shape and saw that it fitted.
+  We might also say: "Every thing fits into itself."
+  Or again: "Every thing fits into its own shape."
+  At the same time we look at a thing and imagine that there was a blank left for it, and that now it fits into it exactly.
+  Does this spot fit into its white surrounding?
+  —But that is just how it would look if there had at first been a hole in its place and it then fitted into the hole.
+  But when we say "it fits" we are not simply describing this appearance; not simply this situation, "Every coloured patch fits exactly into its surrounding" is a rather specialized form of the law of identity.
+  "How am I able to obey a rule?"—if this is not a question about causes, then it is about the justification for my following the rule in the way I do.
+  If I have exhausted the justifications I have reached bedrock, and my spade is turned.
+  Then I am inclined to say: "This is simply what I do."
+  (Remember that we sometimes demand definitions for the sake not of their content, but of their form. Our requirement is an architectural one; the definition a kind of ornamental coping that supports nothing.)
+  Whence comes the idea that the beginning of a series is a visible section of rails invisibly laid to infinity?
+  Well, we might imagine rails instead of a rule.
+  And infinitely long rails correspond to the unlimited application of a rule.
+  "All the steps are really already taken" means: I no longer have any choice.
+  The rule, once stamped with a particular meaning, traces the lines along which it is to be followed through the whole of space.
+  ——But if something of this sort really were the case, how would it help?
+  No; my description only made sense if it was to be understood symbolically.
+  —I should have said: This is how it strikes me.
+  When I obey a rule, I do not choose.
+  I obey the rule blindly.
+  But what is the purpose of that symbolical proposition?
+  It was supposed to bring into prominence a difference between being causally determined and being logically determined.
+  My symbolical expression was really a mythological description of the use of a rule.
+  "The line intimates to me the way I am to go." — But that is of course only a picture.
+  And if I judged that it intimated this or that as it were irresponsibly, I should not say that I was obeying it like a rule.
+  One does not feel that one has always got to wait upon the nod (the whisper) of the rule.
+  On the contrary, we are not on tenterhooks about what it will tell us next, but it always tells us the same, and we do what it tells us.
+  One might say to the person one was training: "Look, I always do the same thing: I . . . . .  "
+  The word "agreement" and the word "rule" are related to one another, they are cousins.
+  If I teach anyone the use of the one word, he learns the use of the other with it.
+  The use of the word "rule" and the use of the word "same" are interwoven.
+  (As are the use of "proposition" and the use of "true".)
+  Suppose someone gets the series of numbers 1, 3, 5, 7, . . . . by working out the series 2x + 1.
+  And now he asks himself: "But am I always doing the same thing, or something different every time?"
+  If from one day to the next you promise: "To-morrow I will come and see you" — are you saying the same thing every day, or every day something different?
+  Would it make sense to say "If he did something different every day we should not say he was obeying a rule"?
+  That makes no sense.
+  "We see a series in just one way!"
+  — All right, but what is that way?
+  Clearly we see it algebraically, and as a segment of an expansion.
+  Or is there more in it than that?
+  — "But the way we see it surely gives us everything!"
+  — But that is not an observation about the segment of the series; or about anything that we notice in it; it gives expression to the fact that we look to the rule for instruction and do something, without appealing to anything else for guidance.
+  I believe that I perceive something drawn very fine in a segment of a series, a characteristic design, which only needs the addition of "and so on", in order to reach to infinity.
+  "The line intimates to me which way I am to go" is only a paraphrase of: it is my last arbiter for the way I am to go.
+  "But surely you can see . . . .?"
+  That is just the characteristic expression of someone who is under the compulsion of a rule.
+  Let us imagine a rule intimating to me which way I am to obey it; that is, as my eye travels along the line, a voice within me says: "This way!"
+  —What is the difference between this process of obeying a kind of inspiration and that of obeying a rule?
+  For they are surely not the same.
+  In the case of inspiration I await direction.
+  I shall not be able to teach anyone else my 'technique' of following the line.
+  Unless, indeed, I teach him some way of hearkening, some kind of receptivity.
+  But then, of course, I cannot require him to follow the line in the same way as I do.
+  These are not my experiences of acting from inspiration and according to a rule; they are grammatical notes.
+  It would also be possible to imagine such a training in a sort of arithmetic.
+  Children could calculate, each in his own way—as long as they listened to their inner voice and obeyed it.
+  Calculating in this way would be like a sort of composing.
+  Would it not be possible for us, however, to calculate as we actually do (all agreeing, and so on), and still at every step to have a feeling of being guided by the rules as by a spell, feeling astonishment at the fact that we agreed?
+  (We might give thanks to the Deity for our agreement.)
+  This merely shews what goes to make up what we call "obeying a rule" in everyday life.
+  Calculating prodigies who get the right answer but cannot say how.
+  Are we to say that they do not calculate?
+  (A family of cases.)
+  Imagine someone using a line as a rule in the following way: he holds a pair of compasses, and carries one of its points along the line that is the 'rule', while the other one draws the line that follows the rule.
+  And while he moves along the ruling line he alters the opening of the compasses, apparently with great precision, looking at the rule the whole time as if it determined what he did.
+  And watching him we see no kind of regularity in this opening and shutting of the compasses.
+  We cannot learn his way of following the line from it.
+  Here perhaps one really would say: "The original seems to intimate to him which way he is to go. But it is not a rule."
+  The rule can only seem to me to produce all its consequences in advance if I draw them as a matter of course.
+  As much as it is a matter of course for me to call this colour "blue".
+  (Criteria for the fact that something is 'a matter of course' for me.)
+  How is he to know what colour he is to pick out when he hears "red"?
+  —Quite simple: he is to take the colour whose image occurs to him when he hears the word.
+  —But how is he to know which colour it is 'whose image occurs to him'?
+  Is a further criterion needed for that?
+  (There is indeed such a procedure as choosing the colour which occurs to one when one hears the word " . . . . ". )
+  "'Red' means the colour that occurs to me when I hear the word 'red' "—would be a definition.
+  Not an explanation of what it is to use a word as a name.
+  Disputes do not break out (among mathematicians, say) over the question whether a rule has been obeyed or not.
+  People don't come to blows over it, for example.
+  That is part of the framework on which the working of our language is based (for example, in giving descriptions).
+  "So you are saying that human agreement decides what is true and what is false?"
+  —It is what human beings say that is true and false; and they agree in the language they use.
+  That is not agreement in opinions but in form of life.
+  If language is to be a means of communication there must be agreement not only in definitions but also (queer as this may sound) in judgments.
+  This seems to abolish logic, but does not do so.
+  — It is one thing to describe methods of measurement, and another to obtain and state results of measurement.
+  But what we call "measuring" is partly determined by a certain constancy in results of measurement.
